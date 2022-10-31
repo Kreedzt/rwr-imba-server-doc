@@ -8,6 +8,10 @@ sectionPagesMenu = "main"
 
 # For theme
 [params]
+  description = "RWR Imba Server 服务器文档, 记录所有 imba 服务器内容"
+  title = "RWR Imba Server Docs"
+  github_repository = "https://github.com/thingsym/hugo-theme-techdoc"
+  version = "0.0.1"
   github_doc_repository = "https://github.com/Kreedzt/rwr-imba-server-doc"
   menu_style = ""
   dateformat = "2006-01-02"

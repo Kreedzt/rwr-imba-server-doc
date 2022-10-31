@@ -98,7 +98,19 @@ PF-98 XN1 120mm火箭筒 元数据 key: pf98.weapon class: 4 分级: SR 来源: 
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/data_export/</guid>
-      <description></description>
+      <description>该文档每次 mod 更新时重新生成
+2022年9月6日 武器数据: weapon-parser-output-2022-09-06-10-38-08.csv 护甲数据: armor-parser-output-2022-09-06-10-41-11.csv
+2022年8月28日 武器数据: weapon-parser-output-2022-08-28-14-37-54.csv 护甲数据: armor-parser-output-2022-08-28-14-33-20.csv
+2022年8月4日 武器数据: weapon-parser-output-2022-08-04-00-28-57.csv 护甲数据: armor-parser-output-2022-08-04-00-29-28.csv
+2022年7月7日 武器数据: weapon-parser-output-2022-07-07-00-26-49.csv 护甲数据: armor-parser-output-2022-07-07-00-29-06.csv
+2022年6月9日 武器数据: weapon-parser-output-2022-06-08-23-54-45.csv 护甲数据:armor-parser-output-2022-06-09-00-10-57.csv
+2022年4月20日 武器数据: weapon-parser-output-2022-04-20-09-15-12.csv 护甲数据: armor-parser-output-2022-04-20-09-34-35.csv
+2022年3月29日 武器数据: weapon-parser-output-2022-03-29-09-46-21.csv 护甲数据: armor-parser-output-2022-03-29-09-49-23.csv
+2022年3月26日 武器数据: weapon-parser-output-2022-03-26-15-48-49.csv 护甲数据: armor-parser-output-2022-03-26-15-57-57.csv
+2022年3月2日 武器数据：weapon-parser-output-2022-03-02-23-37-16.csv
+2022年2月27日 武器数据: weapon-parser-output-2022-02-27-21-55-13.csv
+2022年2月13日 武器数据: weapon-parser-output-2022-02-13-21-14-28.csv
+2022年2月2日 武器数据：weapon-parser-output-2022-02-02-18-17-58.csv</description>
     </item>
     
     <item>
@@ -161,8 +173,7 @@ CB1 * 47 CB2 * 43 彩票 * 91 黑卡 * 7 白卡 * 6 载具盒子 * 1 玩具盒�
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/user_manual/</guid>
-      <description>平衡性测试中, 期间可能会调整服务器参数 imba 服务器 QQ 群: 837341470
-改造(待完善，完善前暂不启用此计划） 平衡性测试中
+      <description>平衡性测试中平衡性测试中, 期间可能会调整服务器参数imba 服务器 QQ 群: 837341470改造(待完善，完善前暂不启用此计划） 平衡性测试中
 因平衡性测试中，本服暂不提供改造
 可用指令(继承自Mod) 指令使用方式: 前缀用 &amp;ldquo;/&amp;rdquo; 执行 例: /buy 1
 buy 指令 购买物品 buy 指令给 2 个参数时, 最后一个参数是 &amp;ldquo;接受者&amp;rdquo; ID
