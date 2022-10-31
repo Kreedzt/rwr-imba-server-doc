@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>入群历史 - RWR Imba Server Docs</title>
+<meta name="generator" content="Hugo 0.105.0">
+<link href="https://kreedzt.github.io/rwr-imba-server-doc//index.xml" rel="alternate" type="application/rss+xml">
+<link rel="canonical" href="https://kreedzt.github.io/rwr-imba-server-doc/gflnp/group_history/">
+<link rel="stylesheet" href="https://kreedzt.github.io/rwr-imba-server-doc/css/theme.min.css">
+<link rel="stylesheet" href="https://kreedzt.github.io/rwr-imba-server-doc/css/chroma.min.css">
+<script defer src="https://kreedzt.github.io/rwr-imba-server-doc//js/fontawesome6/all.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery.easing@1.4.1/jquery.easing.min.js" integrity="sha256-H3cjtrm/ztDeuhCN9I4yh4iN2Ybx/y1RM7rMmAesA0k=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js" integrity="sha256-4XodgW4TwIJuDtf+v6vDJ39FVxI0veC/kSCCmnFp7ck=" crossorigin="anonymous"></script>
+<script src="https://kreedzt.github.io/rwr-imba-server-doc/js/bundle.js"></script><style>
+:root {}
+</style>
+<meta property="og:title" content="入群历史" />
+<meta property="og:description" content="用法 此文档记录入群历史 记录以日期作为标题, **每周 **做一次结算 每节内容都应该为表格, 且详细记录邀请人及入群人 邀请人用户名由 入群人 确认后发给管理员/群管理员统计 奖励与每周定期奖励日叠加发放 已结算奖励的标题用 颜色 标识, 未结算的用 颜色 标识 结算时, 每一项的双方奖励/单方奖励(没有邀请人视为单方奖励): 彩票 * 1 CB1 * 1 作战报告书 * 2 对于入群人, 额外发放黑卡复活自带武器奖励(6月24日维护变更): AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_moed_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.weapon) * 2 记录 2022年11月5日结算 2022年10月29日结算 2022年10月22日结算 2022年10月15日结算 邀请人 入群人 WRSHOLLYLEAF V.V PLAIN 2022年10月7日结算 邀请人 入群人 X260 ZZR 2022年9月30日结算 2022年9月24日结算 邀请人 入群人 123TXY CHITOSE 2022年9月18日结算 邀请人 入群人 AGAVE MR." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://kreedzt.github.io/rwr-imba-server-doc/gflnp/group_history/" /><meta property="article:section" content="gflnp" />
+<meta property="article:published_time" content="2022-10-31T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-10-31T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="入群历史"/>
+<meta name="twitter:description" content="用法 此文档记录入群历史 记录以日期作为标题, **每周 **做一次结算 每节内容都应该为表格, 且详细记录邀请人及入群人 邀请人用户名由 入群人 确认后发给管理员/群管理员统计 奖励与每周定期奖励日叠加发放 已结算奖励的标题用 颜色 标识, 未结算的用 颜色 标识 结算时, 每一项的双方奖励/单方奖励(没有邀请人视为单方奖励): 彩票 * 1 CB1 * 1 作战报告书 * 2 对于入群人, 额外发放黑卡复活自带武器奖励(6月24日维护变更): AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_moed_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.weapon) * 2 记录 2022年11月5日结算 2022年10月29日结算 2022年10月22日结算 2022年10月15日结算 邀请人 入群人 WRSHOLLYLEAF V.V PLAIN 2022年10月7日结算 邀请人 入群人 X260 ZZR 2022年9月30日结算 2022年9月24日结算 邀请人 入群人 123TXY CHITOSE 2022年9月18日结算 邀请人 入群人 AGAVE MR."/>
+<meta itemprop="name" content="入群历史">
+<meta itemprop="description" content="用法 此文档记录入群历史 记录以日期作为标题, **每周 **做一次结算 每节内容都应该为表格, 且详细记录邀请人及入群人 邀请人用户名由 入群人 确认后发给管理员/群管理员统计 奖励与每周定期奖励日叠加发放 已结算奖励的标题用 颜色 标识, 未结算的用 颜色 标识 结算时, 每一项的双方奖励/单方奖励(没有邀请人视为单方奖励): 彩票 * 1 CB1 * 1 作战报告书 * 2 对于入群人, 额外发放黑卡复活自带武器奖励(6月24日维护变更): AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_moed_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.weapon) * 2 记录 2022年11月5日结算 2022年10月29日结算 2022年10月22日结算 2022年10月15日结算 邀请人 入群人 WRSHOLLYLEAF V.V PLAIN 2022年10月7日结算 邀请人 入群人 X260 ZZR 2022年9月30日结算 2022年9月24日结算 邀请人 入群人 123TXY CHITOSE 2022年9月18日结算 邀请人 入群人 AGAVE MR."><meta itemprop="datePublished" content="2022-10-31T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2022-10-31T00:00:00+00:00" />
+<meta itemprop="wordCount" content="178">
+<meta itemprop="keywords" content="" /></head>
+<body><div class="container"><header>
+<h1>RWR Imba Server Docs</h1>
+</header>
+<div class="global-menu">
+<nav>
+<ul>
+<li id="azur_lane" class=""><a href="/rwr-imba-server-doc/azur_lane/"></a></li>
+<li id="gflnp" class="active "><a href="/rwr-imba-server-doc/gflnp/"></a></li>
+<li class=""><a href="/rwr-imba-server-doc/azur_lane/">Azur Lane(碧蓝航线)</a></li>
+<li class=""><a href="/rwr-imba-server-doc/gflnp/">GFLNP(少女前线)</a></li></ul>
+</nav>
+</div>
+
+<div class="content-container">
+<main><h1>入群历史</h1>
+<h1 id="用法">用法</h1>
+<ul>
+<li>此文档记录入群历史</li>
+<li>记录以日期作为标题, **每周 **做一次结算</li>
+<li>每节内容都应该为表格, 且详细记录邀请人及入群人</li>
+<li>邀请人用户名由 <strong>入群人</strong> 确认后发给管理员/群管理员统计</li>
+<li>奖励与每周定期奖励日叠加发放</li>
+<li>已结算奖励的标题用 颜色 标识, 未结算的用 颜色 标识</li>
+<li>结算时, 每一项的双方奖励/单方奖励(没有邀请人视为单方奖励):
+<ul>
+<li>彩票 * 1</li>
+<li>CB1 * 1</li>
+<li>作战报告书 * 2</li>
+</ul>
+</li>
+<li>对于入群人, 额外发放黑卡复活自带武器奖励(<a href="https://www.yuque.com/zhaozisong/rwr-gfl-imba/dtaqkd#BSCVB">6月24日维护变更</a>):
+<ul>
+<li>AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2</li>
+<li>M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2</li>
+<li>Super-Sass 心智升级 (gw_supersass_moed_re.weapon) * 2</li>
+<li>M4A1 心智升级 (gw_m4a1_mod_re.weapon) * 2</li>
+</ul>
+</li>
+</ul>
+<h1 id="记录">记录</h1>
+<h2 id="2022年11月5日结算">2022年11月5日结算</h2>
+<h2 id="2022年10月29日结算">2022年10月29日结算</h2>
+<h2 id="2022年10月22日结算">2022年10月22日结算</h2>
+<h2 id="2022年10月15日结算">2022年10月15日结算</h2>
+<table>
+<thead>
+<tr>
+<th>邀请人</th>
+<th>入群人</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>WRSHOLLYLEAF</td>
+<td>V.V PLAIN</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="2022年10月7日结算">2022年10月7日结算</h2>
+<table>
+<thead>
+<tr>
+<th>邀请人</th>
+<th>入群人</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>X260</td>
+<td>ZZR</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="2022年9月30日结算">2022年9月30日结算</h2>
+<h2 id="2022年9月24日结算">2022年9月24日结算</h2>
+<table>
+<thead>
+<tr>
+<th>邀请人</th>
+<th>入群人</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>123TXY</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>CHITOSE</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="2022年9月18日结算">2022年9月18日结算</h2>
+<table>
+<thead>
+<tr>
+<th>邀请人</th>
+<th>入群人</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>AGAVE</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>MR. SKIF</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>RATZIEL</td>
+<td></td>
+</tr>
+<tr>
+<td>KREEDZT</td>
+<td>MAYUMI</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="2022年9月10日结算">2022年9月10日结算</h2>
+<table>
+<thead>
+<tr>
+<th>邀请人</th>
+<th>入群人</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DOCAT</td>
+<td></td>
+</tr>
+<tr>
+<td>ZERO TWO NO1</td>
+<td>MYA</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ECHO233</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="2022年9月3日结算">2022年9月3日结算</h2>
+<h2 id="2022年8月27日结算">2022年8月27日结算</h2>
+<table>
+<thead>
+<tr>
+<th>邀请人</th>
+<th>入群人</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>IAMCZY</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>ARTANIS-AA</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ZHHZ</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="2022年8月20日结算">2022年8月20日结算</h2>
+<table>
+<thead>
+<tr>
+<th>邀请人</th>
+<th>入群人</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ZERO TWO NO1</td>
+<td>ZELKIN</td>
+</tr>
+<tr>
+<td></td>
+<td>MR. G41</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HK416</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>WANMEI</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>SBM</td>
+</tr>
+</tbody>
+</table>
+<h2 id="2022年8月13日结算">2022年8月13日结算</h2>
+<table>
+<thead>
+<tr>
+<th>邀请人</th>
+<th>入群人</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ZERO TWO NO1</td>
+<td>WADSADW406</td>
+</tr>
+<tr>
+<td></td>
+<td>9_CAI_RA1NBOW</td>
+</tr>
+<tr>
+<td>VANDHEER</td>
+<td>HSO</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="2022年8月6日结算">2022年8月6日结算</h2>
+<h2 id="2022年7月30日结算">2022年7月30日结算</h2>
+<table>
+<thead>
+<tr>
+<th>邀请人</th>
+<th>入群人</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>JIE-RAN</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>MEISHIBIEFENG</td>
+</tr>
+<tr>
+<td></td>
+<td>SCP682</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HARHAK(X6175)</td>
+<td></td>
+</tr>
+<tr>
+<td>T80UM</td>
+<td>FRG2089</td>
+</tr>
+<tr>
+<td></td>
+<td>CPU CPU</td>
+</tr>
+<tr>
+<td></td>
+<td>BLACKDOG</td>
+</tr>
+</tbody>
+</table>
+<h2 id="2022年7月23日结算">2022年7月23日结算</h2>
+<h2 id="2022年7月16日结算">2022年7月16日结算</h2>
+<h2 id="2022年7月8日结算">2022年7月8日结算</h2>
+<table>
+<thead>
+<tr>
+<th>邀请人</th>
+<th>入群人</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>CSJ</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="2022年7月1日结算">2022年7月1日结算</h2>
+<h2 id="2022年6月24日结算">2022年6月24日结算</h2>
+<h2 id="2022年6月17日结算">2022年6月17日结算</h2>
+<h2 id="2022年6月10日结算">2022年6月10日结算</h2>
+<h2 id="2022年6月2日结算">2022年6月2日结算</h2>
+<h2 id="2022年5月27日结算">2022年5月27日结算</h2>
+<table>
+<thead>
+<tr>
+<th>邀请人</th>
+<th>入群人</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>YDY</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="2022年5月20日结算">2022年5月20日结算</h2>
+<h2 id="2022年5月13日结算">2022年5月13日结算</h2>
+<h2 id="2022年5月7日结算">2022年5月7日结算</h2>
+<table>
+<thead>
+<tr>
+<th>邀请人</th>
+<th>入群人</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>CAMERA</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>SOLDIER</td>
+</tr>
+<tr>
+<td></td>
+<td>SAIWA</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="2022年4月29日结算">2022年4月29日结算</h2>
+<table>
+<thead>
+<tr>
+<th>邀请人</th>
+<th>入群人</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>WRSHOLLYLEAF</td>
+<td>MR. FROST</td>
+</tr>
+<tr>
+<td></td>
+<td>STUPID.CAT</td>
+</tr>
+<tr>
+<td></td>
+<td>CANGCLOUD</td>
+</tr>
+<tr>
+<td>WRS</td>
+<td>ORGANAIR</td>
+</tr>
+</tbody>
+</table>
+<h2 id="2022年4月22日结算">2022年4月22日结算</h2>
+<table>
+<thead>
+<tr>
+<th>邀请人</th>
+<th>入群人</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>KNV</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>VERASABBAH</td>
+</tr>
+<tr>
+<td></td>
+<td>ZHOUDEYU</td>
+</tr>
+</tbody>
+</table>
+<h2 id="2022年4月15日结算">2022年4月15日结算</h2>
+<table>
+<thead>
+<tr>
+<th>邀请人</th>
+<th>入群人</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>M4SOPDOG_II</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>HK 416D</td>
+</tr>
+</tbody>
+</table>
+<div class="edit-meta">
+Last updated on 31 Oct 2022
+
+
+<br>
+Published on 31 Oct 2022
+<br></div><nav class="pagination"><a class="nav nav-prev" href="https://kreedzt.github.io/rwr-imba-server-doc/gflnp/report/" title="举报记录"><i class="fas fa-arrow-left" aria-hidden="true"></i>&nbsp;Prev - 举报记录</a>
+<a class="nav nav-next" href="https://kreedzt.github.io/rwr-imba-server-doc/gflnp/profile_delete/" title="删档记录">Next - 删档记录 <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+</nav><footer><p class="powered">Powered by <a href="https://gohugo.io">Hugo</a>. Theme by <a href="https://themes.gohugo.io/hugo-theme-techdoc/">TechDoc</a>. Designed by <a href="https://github.com/thingsym/hugo-theme-techdoc">Thingsym</a>.</p>
+</footer>
+</main>
+<div class="sidebar">
+
+<div class="sidebar-footer"></div>
+</div>
+
+</div><a href="#" id="backtothetop-fixed" class="backtothetop"
+ data-backtothetop-duration="600"
+ data-backtothetop-easing="easeOutQuart"
+ data-backtothetop-fixed-fadeIn="1000"
+ data-backtothetop-fixed-fadeOut="1000"
+ data-backtothetop-fixed-bottom="10"
+ data-backtothetop-fixed-right="20">
+<span class="fa-layers fa-fw">
+<i class="fas fa-circle"></i>
+<i class="fas fa-arrow-circle-up"></i>
+</span></a>
+</div>
+</body>
+</html>

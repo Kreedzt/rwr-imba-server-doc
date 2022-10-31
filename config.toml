@@ -4,3 +4,13 @@ languageCode = 'zh-cn'
 title = 'RWR Imba Server Docs'
 theme = 'hugo-theme-techdoc'
 publishDir = 'docs'
+sectionPagesMenu = "main"
+
+[menu]
+[[menu.main]]
+  # identifier = 'about'
+  name = 'GFLNP(少女前线)'
+  url = '/gflnp/'
+[[menu.main]]
+  name = 'Azur Lane(碧蓝航线)'
+  url = '/azur_lane/'
