@@ -82,7 +82,7 @@ server {
 }
 ```
 
-## RWR GFL Mod内数据提取
+## Mod内数据提取
 > 每次 mod 更新时重新提取
 
 武器数据提取: 仓库地址: [https://github.com/Kreedzt/rwr-gfl-weapon-parser](https://github.com/Kreedzt/rwr-gfl-weapon-parser)
@@ -101,3 +101,5 @@ server {
 9. 启动rwr游戏服务
 10. 管理员测试游戏能否正常进入
 11. 维护完成
+
+

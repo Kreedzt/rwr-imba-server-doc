@@ -7,7 +7,7 @@
 <meta name="description" content="RWR Imba Server 服务器文档, 记录所有 imba 服务器内容">
 <meta name="generator" content="Hugo 0.105.0">
 <link href="https://kreedzt.github.io/rwr-imba-server-doc//index.xml" rel="alternate" type="application/rss+xml">
-<link rel="canonical" href="https://kreedzt.github.io/rwr-imba-server-doc/gflnp/group_manager/">
+<link rel="canonical" href="https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/group_manager/">
 <link rel="stylesheet" href="https://kreedzt.github.io/rwr-imba-server-doc/css/theme.min.css">
 <link rel="stylesheet" href="https://kreedzt.github.io/rwr-imba-server-doc/css/chroma.min.css">
 <script defer src="https://kreedzt.github.io/rwr-imba-server-doc//js/fontawesome6/all.min.js"></script>
@@ -18,12 +18,8 @@
 :root {}
 </style>
 <meta property="og:title" content="群管理员手册" />
-<meta property="og:description" content="测试中, 内容可能会改动
-用法 本文档用于描述群管理员相关信息，包含以下章节：
-申请条件 要求 职责 奖励 指令 申请条件 必要条件:
-需在此服务器中游玩时间 &gt; 3000 分钟 需在此服务器中达到 1 月人形 二选一条件: 条件1:
-在此服务器游玩时间 &gt; 5000 分钟 条件2:
-需在此游戏(steam时长)游玩时间 &gt; 600 小时 要求 审核搁置时间不能超过 48 小时 每次执行时需要向服务器管理员报告 职责 负责处理举报相关审核 奖励 举报审核处理后根据举报文档将获得彩票 * 1 指令 群管理员除了可用普通玩家已有指令外, 还可有额外的可用指令
+<meta property="og:description" content=" 本文档用于描述群管理员相关信息，包含以下章节：
+要求 职责 奖励 指令 要求 审核搁置时间不能超过 48 小时 每次执行时需要向服务器管理员报告 职责 负责处理举报相关审核 奖励 举报审核处理后根据举报文档将获得 RP * 1W 奖励 指令 群管理员除了可用普通玩家已有指令外, 还可有额外的可用指令
 针对这些指令, 标记为 颜色 的指令在执行时 需** 向管理员汇报**
 额外指令分为 2 种:
 封禁指令 普通游戏指令 封禁指令 tempban 临时封禁玩家, 需要一个参数
@@ -31,20 +27,22 @@ tempban KREEDZT
 clearban 解除临时封禁玩家的封禁, 需要一个参数
 clearban KREEDZT
 tbdebug 显示临时封禁玩家列表
-普通游戏指令 buy 8 月 13 日更新: 购买价格为默认的 3 倍, 但 不限制 使用次数" />
+普通游戏指令 whereami 显示当前位置
+sidinfo 查询玩家sid，需要一个参数
+sidinfo KREEDZT
+kick_id kick 踢出玩家, 例: kick KREEDZT
+0_win 本局游戏获胜
+1_win 本局游戏失败(可当做重开指令)
+1_lose 1_own 0_own " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://kreedzt.github.io/rwr-imba-server-doc/gflnp/group_manager/" /><meta property="article:section" content="gflnp" />
+<meta property="og:url" content="https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/group_manager/" /><meta property="article:section" content="azur_lane" />
 <meta property="article:published_time" content="2022-10-31T00:00:00+00:00" />
 <meta property="article:modified_time" content="2022-10-31T00:00:00+00:00" /><meta property="og:site_name" content="RWR Imba Server Docs" />
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="群管理员手册"/>
-<meta name="twitter:description" content="测试中, 内容可能会改动
-用法 本文档用于描述群管理员相关信息，包含以下章节：
-申请条件 要求 职责 奖励 指令 申请条件 必要条件:
-需在此服务器中游玩时间 &gt; 3000 分钟 需在此服务器中达到 1 月人形 二选一条件: 条件1:
-在此服务器游玩时间 &gt; 5000 分钟 条件2:
-需在此游戏(steam时长)游玩时间 &gt; 600 小时 要求 审核搁置时间不能超过 48 小时 每次执行时需要向服务器管理员报告 职责 负责处理举报相关审核 奖励 举报审核处理后根据举报文档将获得彩票 * 1 指令 群管理员除了可用普通玩家已有指令外, 还可有额外的可用指令
+<meta name="twitter:description" content=" 本文档用于描述群管理员相关信息，包含以下章节：
+要求 职责 奖励 指令 要求 审核搁置时间不能超过 48 小时 每次执行时需要向服务器管理员报告 职责 负责处理举报相关审核 奖励 举报审核处理后根据举报文档将获得 RP * 1W 奖励 指令 群管理员除了可用普通玩家已有指令外, 还可有额外的可用指令
 针对这些指令, 标记为 颜色 的指令在执行时 需** 向管理员汇报**
 额外指令分为 2 种:
 封禁指令 普通游戏指令 封禁指令 tempban 临时封禁玩家, 需要一个参数
@@ -52,14 +50,16 @@ tempban KREEDZT
 clearban 解除临时封禁玩家的封禁, 需要一个参数
 clearban KREEDZT
 tbdebug 显示临时封禁玩家列表
-普通游戏指令 buy 8 月 13 日更新: 购买价格为默认的 3 倍, 但 不限制 使用次数"/>
+普通游戏指令 whereami 显示当前位置
+sidinfo 查询玩家sid，需要一个参数
+sidinfo KREEDZT
+kick_id kick 踢出玩家, 例: kick KREEDZT
+0_win 本局游戏获胜
+1_win 本局游戏失败(可当做重开指令)
+1_lose 1_own 0_own "/>
 <meta itemprop="name" content="群管理员手册">
-<meta itemprop="description" content="测试中, 内容可能会改动
-用法 本文档用于描述群管理员相关信息，包含以下章节：
-申请条件 要求 职责 奖励 指令 申请条件 必要条件:
-需在此服务器中游玩时间 &gt; 3000 分钟 需在此服务器中达到 1 月人形 二选一条件: 条件1:
-在此服务器游玩时间 &gt; 5000 分钟 条件2:
-需在此游戏(steam时长)游玩时间 &gt; 600 小时 要求 审核搁置时间不能超过 48 小时 每次执行时需要向服务器管理员报告 职责 负责处理举报相关审核 奖励 举报审核处理后根据举报文档将获得彩票 * 1 指令 群管理员除了可用普通玩家已有指令外, 还可有额外的可用指令
+<meta itemprop="description" content=" 本文档用于描述群管理员相关信息，包含以下章节：
+要求 职责 奖励 指令 要求 审核搁置时间不能超过 48 小时 每次执行时需要向服务器管理员报告 职责 负责处理举报相关审核 奖励 举报审核处理后根据举报文档将获得 RP * 1W 奖励 指令 群管理员除了可用普通玩家已有指令外, 还可有额外的可用指令
 针对这些指令, 标记为 颜色 的指令在执行时 需** 向管理员汇报**
 额外指令分为 2 种:
 封禁指令 普通游戏指令 封禁指令 tempban 临时封禁玩家, 需要一个参数
@@ -67,9 +67,15 @@ tempban KREEDZT
 clearban 解除临时封禁玩家的封禁, 需要一个参数
 clearban KREEDZT
 tbdebug 显示临时封禁玩家列表
-普通游戏指令 buy 8 月 13 日更新: 购买价格为默认的 3 倍, 但 不限制 使用次数"><meta itemprop="datePublished" content="2022-10-31T00:00:00+00:00" />
+普通游戏指令 whereami 显示当前位置
+sidinfo 查询玩家sid，需要一个参数
+sidinfo KREEDZT
+kick_id kick 踢出玩家, 例: kick KREEDZT
+0_win 本局游戏获胜
+1_win 本局游戏失败(可当做重开指令)
+1_lose 1_own 0_own "><meta itemprop="datePublished" content="2022-10-31T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2022-10-31T00:00:00+00:00" />
-<meta itemprop="wordCount" content="128">
+<meta itemprop="wordCount" content="65">
 <meta itemprop="keywords" content="" /></head>
 <body><div class="container"><header>
 <h1>RWR Imba Server Docs</h1><span class="version">Version 0.0.1</span><a href="https://github.com/thingsym/hugo-theme-techdoc" class="github"><i class="fab fa-github"></i></a>
@@ -80,39 +86,36 @@ tbdebug 显示临时封禁玩家列表
 <nav>
 <ul>
 <li class=""><a href="/rwr-imba-server-doc/">主页</a></li>
-<li id="gflnp" class="active "><a href="/rwr-imba-server-doc/gflnp/">GFLNP(少女前线)</a></li>
-<li id="azur_lane" class=""><a href="/rwr-imba-server-doc/azur_lane/">Azur Lane(碧蓝航线)</a></li></ul>
+<li id="gflnp" class=""><a href="/rwr-imba-server-doc/gflnp/">GFLNP(少女前线)</a></li>
+<li id="azur_lane" class="active "><a href="/rwr-imba-server-doc/azur_lane/">Azur Lane(碧蓝航线)</a></li></ul>
 </nav>
 </div>
 
 <div class="content-container">
 <main><h1>群管理员手册</h1>
+<aside class="table_of_contents">
+<h5>Table of Contents</h5><nav id="TableOfContents">
+  <ul>
+    <li><a href="#要求">要求</a></li>
+    <li><a href="#职责">职责</a></li>
+    <li><a href="#奖励">奖励</a></li>
+    <li><a href="#指令">指令</a>
+      <ul>
+        <li><a href="#封禁指令">封禁指令</a></li>
+        <li><a href="#普通游戏指令">普通游戏指令</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></aside>
+
 <blockquote>
-<p>测试中, 内容可能会改动</p>
-</blockquote>
-<h1 id="用法">用法</h1>
 <p>本文档用于描述群管理员相关信息，包含以下章节：</p>
+</blockquote>
 <ul>
-<li>申请条件</li>
 <li>要求</li>
 <li>职责</li>
 <li>奖励</li>
 <li>指令</li>
-</ul>
-<h2 id="申请条件">申请条件</h2>
-<p>必要条件:</p>
-<ul>
-<li>需在此服务器中游玩时间 &gt; 3000 分钟</li>
-<li>需在此服务器中达到 1 月人形</li>
-</ul>
-<p>二选一条件:
-条件1:</p>
-<ul>
-<li>在此服务器游玩时间 &gt; 5000 分钟</li>
-</ul>
-<p>条件2:</p>
-<ul>
-<li>需在此游戏(steam时长)游玩时间 &gt; 600 小时</li>
 </ul>
 <h2 id="要求">要求</h2>
 <ul>
@@ -125,7 +128,7 @@ tbdebug 显示临时封禁玩家列表
 </ul>
 <h2 id="奖励">奖励</h2>
 <ul>
-<li>举报审核处理后根据举报文档将获得彩票 * 1</li>
+<li>举报审核处理后根据举报文档将获得 RP * 1W 奖励</li>
 </ul>
 <h2 id="指令">指令</h2>
 <p>群管理员除了可用普通玩家已有指令外, 还可有额外的可用指令</p>
@@ -149,29 +152,6 @@ tbdebug 显示临时封禁玩家列表
 <h4 id="tbdebug">tbdebug</h4>
 <p>显示临时封禁玩家列表</p>
 <h3 id="普通游戏指令">普通游戏指令</h3>
-<h4 id="buy">buy</h4>
-<blockquote>
-<p>8 月 13 日更新: 购买价格为默认的 3 倍, 但 不限制 使用次数</p>
-</blockquote>
-<p>购买物品</p>
-<ul>
-<li>6: 军械车</li>
-<li>7: 仓库车</li>
-<li>101: MAA坦克</li>
-<li>102: 豹二主战坦克</li>
-<li>103: T-14 主战坦克</li>
-<li>201: M2A2战车</li>
-<li>202: GT-C 步战车</li>
-<li>203: BMP-3 步战车</li>
-<li>301: 运兵车</li>
-<li>302: 运兵车(另一个阵营)</li>
-<li>502: 悍马车</li>
-</ul>
-<h4 id="cgc">cgc</h4>
-<p>改变玩家颜色</p>
-<blockquote>
-<p>cgc #FF00FF</p>
-</blockquote>
 <h4 id="whereami">whereami</h4>
 <p>显示当前位置</p>
 <h4 id="sidinfo">sidinfo</h4>
@@ -201,8 +181,8 @@ Last updated on 2022-10-31
 
 <br>
 Published on 2022-10-31
-<br><a href="https://github.com/Kreedzt/rwr-imba-server-doc/edit/master/gflnp%5cgroup_manager.md" class="edit-page"><i class="fas fa-pen-square"></i>&nbsp;Edit on GitHub</a></div><nav class="pagination"><a class="nav nav-prev" href="https://kreedzt.github.io/rwr-imba-server-doc/gflnp/manager/" title="管理员手册"><i class="fas fa-arrow-left" aria-hidden="true"></i>&nbsp;Prev - 管理员手册</a>
-<a class="nav nav-next" href="https://kreedzt.github.io/rwr-imba-server-doc/gflnp/operations/" title="运营相关">Next - 运营相关 <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+<br><a href="https://github.com/Kreedzt/rwr-imba-server-doc/edit/master/azur_lane%5cgroup_manager.md" class="edit-page"><i class="fas fa-pen-square"></i>&nbsp;Edit on GitHub</a></div><nav class="pagination"><a class="nav nav-prev" href="https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/manager/" title="管理员手册"><i class="fas fa-arrow-left" aria-hidden="true"></i>&nbsp;Prev - 管理员手册</a>
+<a class="nav nav-next" href="https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/data_export/" title="数据提取记录">Next - 数据提取记录 <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
 </nav><footer><p class="powered">Powered by <a href="https://gohugo.io">Hugo</a>. Theme by <a href="https://themes.gohugo.io/hugo-theme-techdoc/">TechDoc</a>. Designed by <a href="https://github.com/thingsym/hugo-theme-techdoc">Thingsym</a>.</p>
 </footer>
 </main>

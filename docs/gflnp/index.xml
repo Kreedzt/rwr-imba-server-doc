@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RWR Imba Server Docs</title>
+    <title>GFLNP(少女前线) on RWR Imba Server Docs</title>
     <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/</link>
-    <description>Recent content on RWR Imba Server Docs</description>
+    <description>Recent content in GFLNP(少女前线) on RWR Imba Server Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kreedzt.github.io/rwr-imba-server-doc/gflnp/index.xml" rel="self" type="application/rss+xml" />
@@ -188,7 +188,7 @@ ak12 an94 ar15 m16a1 m4a1 m4_sopmod_ii g11 hk416 ump9 ump45 m1873 m9 m14 98k m99
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/manager/</guid>
-      <description>操作工具代码 RWR存档后台管理 前端 管理界面: 仓库地址: https://github.com/Kreedzt/rwr-profile-web 查询页面: 仓库地址: https://github.com/Kreedzt/rwr-profile-stats 数据可视化页面: 仓库地址: https://github.com/Kreedzt/rwr-profile-visualization
+      <description>RWR存档后台管理 前端 管理界面: 仓库地址: https://github.com/Kreedzt/rwr-profile-web 查询页面: 仓库地址: https://github.com/Kreedzt/rwr-profile-stats 数据可视化页面: 仓库地址: https://github.com/Kreedzt/rwr-profile-visualization
 后端 仓库地址: https://github.com/Kreedzt/rwr-profile-server
 部署方式 nginx 部署 nginx 托管 前端页面, API 反向代理至后端 反向代理如下配置:
 server { listen 9090; server_name localhost; # 管理: 前端页面 location / { # 注意: win server 2016 与 2012 的路径分隔符可能不同, 此处适用于 2016 root C://Users//Administrator//Documents//rwr-web//dist; try_files $uri $uri/ /index.html; index index.html; } # API 转发 location /api/ { proxy_set_header HOST $host; proxy_set_header X-Forwarded-Proto $scheme; proxy_set_header X-Real-IP $remote_addr; proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for; proxy_pass http://127.</description>

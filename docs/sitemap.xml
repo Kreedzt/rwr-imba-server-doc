@@ -4,7 +4,9 @@
   <url>
     <loc>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url><url>
+    <loc>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/cb_select/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
@@ -27,25 +29,46 @@
     <loc>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/feedback/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/data_export/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/data_export/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/event/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/server/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/server_maintance/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server_maintance/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/rule/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/rule/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/user_manual/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/user_manual/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/manager/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/manager/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/group_manager/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/group_manager/</loc>
@@ -53,9 +76,6 @@
   </url><url>
     <loc>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/operations/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://kreedzt.github.io/rwr-imba-server-doc/categories/</loc>
   </url><url>

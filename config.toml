@@ -15,20 +15,19 @@ sectionPagesMenu = "main"
   github_doc_repository = "https://github.com/Kreedzt/rwr-imba-server-doc"
   menu_style = ""
   dateformat = "2006-01-02"
-  algolia_search_enable = true
 
 [menu]
 [[menu.main]]
   name = "主页"
   url = "/"
   weight = 1
-[[menu.main]]
-  name = 'GFLNP(少女前线)'
-  url = '/gflnp/'
-  weight = 2
-[[menu.main]]
-  name = 'Azur Lane(碧蓝航线)'
-  url = '/azur_lane/'
+# [[menu.main]]
+#   name = 'GFLNP(少女前线)'
+#   url = '/gflnp/'
+#   weight = 2
+# [[menu.main]]
+#   name = 'Azur Lane(碧蓝航线)'
+#   url = '/azur_lane/'
 
 # Algolia Search configure section
 [outputFormats.Algolia]

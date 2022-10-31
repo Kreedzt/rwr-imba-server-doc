@@ -7,7 +7,7 @@
 <meta name="description" content="RWR Imba Server 服务器文档, 记录所有 imba 服务器内容">
 <meta name="generator" content="Hugo 0.105.0">
 <link href="https://kreedzt.github.io/rwr-imba-server-doc//index.xml" rel="alternate" type="application/rss+xml">
-<link rel="canonical" href="https://kreedzt.github.io/rwr-imba-server-doc/gflnp/manager/">
+<link rel="canonical" href="https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/manager/">
 <link rel="stylesheet" href="https://kreedzt.github.io/rwr-imba-server-doc/css/theme.min.css">
 <link rel="stylesheet" href="https://kreedzt.github.io/rwr-imba-server-doc/css/chroma.min.css">
 <script defer src="https://kreedzt.github.io/rwr-imba-server-doc//js/fontawesome6/all.min.js"></script>
@@ -23,7 +23,7 @@
 部署方式 nginx 部署 nginx 托管 前端页面, API 反向代理至后端 反向代理如下配置:
 server { listen 9090; server_name localhost; # 管理: 前端页面 location / { # 注意: win server 2016 与 2012 的路径分隔符可能不同, 此处适用于 2016 root C://Users//Administrator//Documents//rwr-web//dist; try_files $uri $uri/ /index.html; index index.html; } # API 转发 location /api/ { proxy_set_header HOST $host; proxy_set_header X-Forwarded-Proto $scheme; proxy_set_header X-Real-IP $remote_addr; proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for; proxy_pass http://127." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://kreedzt.github.io/rwr-imba-server-doc/gflnp/manager/" /><meta property="article:section" content="gflnp" />
+<meta property="og:url" content="https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/manager/" /><meta property="article:section" content="azur_lane" />
 <meta property="article:published_time" content="2022-10-31T00:00:00+00:00" />
 <meta property="article:modified_time" content="2022-10-31T00:00:00+00:00" /><meta property="og:site_name" content="RWR Imba Server Docs" />
 
@@ -39,7 +39,7 @@ server { listen 9090; server_name localhost; # 管理: 前端页面 location / {
 部署方式 nginx 部署 nginx 托管 前端页面, API 反向代理至后端 反向代理如下配置:
 server { listen 9090; server_name localhost; # 管理: 前端页面 location / { # 注意: win server 2016 与 2012 的路径分隔符可能不同, 此处适用于 2016 root C://Users//Administrator//Documents//rwr-web//dist; try_files $uri $uri/ /index.html; index index.html; } # API 转发 location /api/ { proxy_set_header HOST $host; proxy_set_header X-Forwarded-Proto $scheme; proxy_set_header X-Real-IP $remote_addr; proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for; proxy_pass http://127."><meta itemprop="datePublished" content="2022-10-31T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2022-10-31T00:00:00+00:00" />
-<meta itemprop="wordCount" content="189">
+<meta itemprop="wordCount" content="187">
 <meta itemprop="keywords" content="" /></head>
 <body><div class="container"><header>
 <h1>RWR Imba Server Docs</h1><span class="version">Version 0.0.1</span><a href="https://github.com/thingsym/hugo-theme-techdoc" class="github"><i class="fab fa-github"></i></a>
@@ -50,8 +50,8 @@ server { listen 9090; server_name localhost; # 管理: 前端页面 location / {
 <nav>
 <ul>
 <li class=""><a href="/rwr-imba-server-doc/">主页</a></li>
-<li id="gflnp" class="active "><a href="/rwr-imba-server-doc/gflnp/">GFLNP(少女前线)</a></li>
-<li id="azur_lane" class=""><a href="/rwr-imba-server-doc/azur_lane/">Azur Lane(碧蓝航线)</a></li></ul>
+<li id="gflnp" class=""><a href="/rwr-imba-server-doc/gflnp/">GFLNP(少女前线)</a></li>
+<li id="azur_lane" class="active "><a href="/rwr-imba-server-doc/azur_lane/">Azur Lane(碧蓝航线)</a></li></ul>
 </nav>
 </div>
 
@@ -131,7 +131,7 @@ server { listen 9090; server_name localhost; # 管理: 前端页面 location / {
 </span></span><span style="display:flex;"><span>          <span style="color:#f92672">proxy_pass</span> <span style="color:#e6db74">http://127.0.0.1:8080/profile/query_all_cache</span>;
 </span></span><span style="display:flex;"><span>    }
 </span></span><span style="display:flex;"><span>}
-</span></span></code></pre></div><h2 id="rwr-gfl-mod内数据提取">RWR GFL Mod内数据提取</h2>
+</span></span></code></pre></div><h2 id="mod内数据提取">Mod内数据提取</h2>
 <blockquote>
 <p>每次 mod 更新时重新提取</p>
 </blockquote>
@@ -158,8 +158,8 @@ Last updated on 2022-10-31
 
 <br>
 Published on 2022-10-31
-<br><a href="https://github.com/Kreedzt/rwr-imba-server-doc/edit/master/gflnp%5cmanager.md" class="edit-page"><i class="fas fa-pen-square"></i>&nbsp;Edit on GitHub</a></div><nav class="pagination"><a class="nav nav-prev" href="https://kreedzt.github.io/rwr-imba-server-doc/gflnp/user_manual/" title="玩家手册"><i class="fas fa-arrow-left" aria-hidden="true"></i>&nbsp;Prev - 玩家手册</a>
-<a class="nav nav-next" href="https://kreedzt.github.io/rwr-imba-server-doc/gflnp/group_manager/" title="群管理员手册">Next - 群管理员手册 <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+<br><a href="https://github.com/Kreedzt/rwr-imba-server-doc/edit/master/azur_lane%5cmanager.md" class="edit-page"><i class="fas fa-pen-square"></i>&nbsp;Edit on GitHub</a></div><nav class="pagination"><a class="nav nav-prev" href="https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/user_manual/" title="玩家手册"><i class="fas fa-arrow-left" aria-hidden="true"></i>&nbsp;Prev - 玩家手册</a>
+<a class="nav nav-next" href="https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/group_manager/" title="群管理员手册">Next - 群管理员手册 <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
 </nav><footer><p class="powered">Powered by <a href="https://gohugo.io">Hugo</a>. Theme by <a href="https://themes.gohugo.io/hugo-theme-techdoc/">TechDoc</a>. Designed by <a href="https://github.com/thingsym/hugo-theme-techdoc">Thingsym</a>.</p>
 </footer>
 </main>

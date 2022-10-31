@@ -1,4 +1,9 @@
-# GFLNP(少女前线)
+---
+title: "GFLNP(少女前线)"
+publishDate: 2022-10-31
+date: 2022-10-31
+weight: 2
+---
 
 ## 服务器规则
 
