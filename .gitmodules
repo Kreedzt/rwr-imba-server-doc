@@ -1,0 +1,9 @@
+[submodule "themes/doks"]
+	path = themes/doks
+	url = https://github.com/h-enk/doks-child-theme.git
+[submodule "themes/themes/doks"]
+	path = themes/themes/doks
+	url = https://github.com/h-enk/doks-child-theme.git
+[submodule "themes/hugo-theme-techdoc"]
+	path = themes/hugo-theme-techdoc
+	url = https://github.com/thingsym/hugo-theme-techdoc.git
