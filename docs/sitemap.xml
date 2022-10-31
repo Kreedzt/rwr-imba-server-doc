@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://kreedzt.github.io/rwr-imba-server-doc/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/azur_lane/</loc>
+    <loc>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/gflnp/</loc>
+    <loc>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://kreedzt.github.io/rwr-imba-server-doc/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://kreedzt.github.io/rwr-imba-server-doc/tags/</loc>
   </url>
 </urlset>
