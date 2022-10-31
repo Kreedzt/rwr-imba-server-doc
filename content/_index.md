@@ -1,8 +1,8 @@
 # RWR Imba Server Docs
 
 ## GFLNP
-See: [GFLNP](/gflnp)
+See: [GFLNP](gflnp)
 
 ## Azur Lane
 
-See: [Azur Lane](/azur_lane)
+See: [Azur Lane](azur_lane)
