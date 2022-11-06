@@ -1,5 +1,5 @@
 ---
-title: "GFLNP(少女前线)"
+title: 'GFLNP(少女前线)'
 publishDate: 2022-10-31
 date: 2022-10-31
 weight: 2
@@ -64,4 +64,3 @@ See: [服务器相关]({{< ref "server" >}})
 ## 服务器维护记录
 
 See: [服务器维护记录]({{< ref "server_maintance" >}})
-

@@ -1,5 +1,5 @@
 ---
-title: "Azur Lane(碧蓝航线)"
+title: 'Azur Lane(碧蓝航线)'
 publishDate: 2022-10-31
 date: 2022-10-31
 weight: 3
@@ -35,6 +35,6 @@ See: [管理员手册]({{< ref "manager" >}})
 
 See: [服务器相关]({{< ref "server" >}})
 
-## 服务器维护记录 
+## 服务器维护记录
 
 See: [服务器维护记录]({{< ref "server_maintance" >}})
