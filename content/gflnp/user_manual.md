@@ -1,7 +1,7 @@
 ---
 title: '玩家手册'
 publishDate: 2022-10-31
-date: 2022-10-31
+date: 2022-11-20
 TableOfContents: true
 ---
 
@@ -102,7 +102,7 @@ buy 指令给 2 个参数时, 最后一个参数是 "接受者" ID
 
 玩家应进入此 QQ 群，进入后修改昵称为游戏内名称：837341470
 
-下方为简要规则， 详细规则见 [服务器规则](https://www.yuque.com/zhaozisong/rwr-gfl-imba/gdcpwm) 章节
+下方为简要规则， 详细规则见 [服务器规则]({{< ref "/gflnp/rule" >}}) 章节
 
 -   若前线大部队推进时，请不要把军械车归为己用进行抽卡等操作，自己可以呼叫补给车进行抽卡
 -   因游戏脚本执行问题，脚本执行会依次等待，请不要一次性抽卡太多次，尽量 10 ～ 20 个一抽
@@ -215,9 +215,9 @@ buy 指令给 2 个参数时, 最后一个参数是 "接受者" ID
 
 ## 服务器说明
 
-该服务器进行难度分级, 详见 [服务器相关](https://www.yuque.com/zhaozisong/rwr-gfl-imba/rpp4u2#zrJZs) 文档
+该服务器进行难度分级, 详见 [服务器相关]({{< ref "/gflnp/server" >}}) 文档
 
-因游戏特色，服务器可能会出现 **不在列表中** 的情况，针对此情况，请手动输入 IP 链接，地址见 [服务器手册](https://www.yuque.com/zhaozisong/rwr-gfl-imba/rpp4u2#VnDtg)
+因游戏特色，服务器可能会出现 **不在列表中** 的情况，针对此情况，请手动输入 IP 链接，地址见 [服务器手册]({{< ref "/gflnp/server" >}})
 
 ## 回档
 

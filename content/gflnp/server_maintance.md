@@ -1,7 +1,7 @@
 ---
 title: '服务器维护记录'
 publishDate: 2022-10-31
-date: 2022-10-31
+date: 2022-11-20
 TableOfContents: true
 ---
 
@@ -35,6 +35,21 @@ TableOfContents: true
 
 ## 记录
 
+### 2022 年 11 月 19 日 21 点
+
+-   维护范围: 全部服务器
+-   维护原因: 定期维护
+-   开始时间: 2022-11-19 21:00
+-   结束时间: 2022-11-19 21:41
+-   维护时长: 41 分钟
+-   维护奖励
+    -   定期维护
+        -   CB1 \* 1
+        -   CB2 \* 1
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-11-月-19-日结算" >}})
+-   服务器参数调整
+    -   格里芬阵营携带 cb 武器的 AI 刷新概率 **提高至 5 倍**
+
 ### 2022 年 11 月 11 日 21 点
 
 -   维护范围: 全部服务器
@@ -61,7 +76,7 @@ TableOfContents: true
     -   定期维护
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#NXAz2)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-11-月-6-日结算" >}})
 -   服务器参数调整
     -   服务器说明地址指向更改为 github
 
@@ -76,7 +91,7 @@ TableOfContents: true
     -   定期维护
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#loGmu)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-10-月-29-日结算" >}})
 -   服务器参数调整:
     -   `空降仓` 临时加入电台呼叫
 
@@ -101,7 +116,7 @@ TableOfContents: true
     -   定期维护
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#GrSi5)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-10-月-22-日结算" >}})
 -   服务器参数调整:
     -   `G.H.S` 加入 **常驻** 过图奖励, 物品概率有所调整
 
@@ -116,7 +131,7 @@ TableOfContents: true
     -   定期维护
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#ReJCl)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-10-月-15-日结算" >}})
 -   服务器参数调整:
     -   增加 `/im armor` 指令, 使用该指令会扣除 `1800RP` 购买 `IOP T4 外骨骼` 至背包
 
@@ -127,12 +142,12 @@ TableOfContents: true
 -   开始时间: 2022-10-07 20:40
 -   结束时间: 2022-10-07 21:05
 -   维护时长: 25 分钟
--   服务器活动: [国庆活动](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#MCkxt) 结束
+-   服务器活动: [国庆活动]({{< ref "/gflnp/event#国庆节活动已结束" >}}) 结束
 -   维护奖励
     -   定期维护
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#FTm7y)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-10-月-7-日结算" >}})
 -   服务器参数调整:
     -   移除 `AC-130` 空中炮艇支援, 舰炮打击(7500 RP 消耗)的依旧保留
     -   抽卡脚本优化(由 `冥府乌鸦` 提供)
@@ -144,7 +159,7 @@ TableOfContents: true
 -   开始时间: 2022-09-29 22:30
 -   结束时间: 2022-09-29 23:10
 -   维护时长: 40 分钟
--   服务器活动: [国庆活动](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#MCkxt)开启
+-   服务器活动: [国庆活动]({{< ref "/gflnp/event#国庆节活动已结束" >}})开启
 -   维护奖励
     -   定期维护(为避免多次维护, 已提前于本次发放)
         -   CB1 \* 1
@@ -180,7 +195,7 @@ TableOfContents: true
     -   定期奖励
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#GEC3k)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-9-月-24-日结算" >}})
     -   奖池调整额外奖励
         -   信物盒子 \* 2
 -   服务器参数调整:
@@ -202,7 +217,7 @@ TableOfContents: true
     -   定期奖励
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#c9h7G)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-9-月-18-日结算" >}})
     -   补偿奖励
         -   CB1 \* 1
         -   CB2 \* 1
@@ -227,7 +242,7 @@ TableOfContents: true
     -   定期奖励
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#c9h7G)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-9-月-18-日结算" >}})
     -   累计奖励
         -   彩票 \* 1
     -   卡池内容调整额外奖励
@@ -240,7 +255,7 @@ TableOfContents: true
         > 该信号弹会发起一次 AH-64 空中支援
 
 -   文档更新:
-    -   [运营相关](https://www.yuque.com/zhaozisong/rwr-gfl-imba/lo52vd#QnLgH) 文档更新, 主要改动如下:
+    -   [运营相关]({{< ref "/gflnp/operations#mod-更新" >}}) 文档更新, 主要改动如下:
         -   Mod 更新维护准则由提前 30 分钟降低到 10 分钟
         -   Mod 更新章节中, 增加如下内容:
             -   对于 **一日人形** 的玩家, 发放双份奖励
@@ -276,7 +291,7 @@ TableOfContents: true
     -   定期奖励
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#UMBcE)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-9-月-10-日结算" >}})
     -   卡池内容调整额外奖励
         -   空袭标记信号弹 \* 2
     -   中秋假期额外奖励
@@ -289,8 +304,8 @@ TableOfContents: true
         > 该信号弹会发起一次 AC-130 空中炮艇支援
 
 -   文档更新:
-    -   增加 [服务器规则](https://www.yuque.com/zhaozisong/rwr-gfl-imba/gdcpwm) 章节
-    -   [玩家手册](https://www.yuque.com/zhaozisong/rwr-gfl-imba/ygnr7m) 相应的更新 `游玩规则` 章节
+    -   增加 [服务器规则]({{< ref "/gflnp/rule" >}}) 章节
+    -   [玩家手册]({{< ref "/gflnp/user_manual#游玩规则" >}}) 相应的更新 `游玩规则` 章节
 
 ### 2022 年 9 月 6 日 09 点 30 分
 
@@ -384,7 +399,7 @@ TableOfContents: true
     -   定期奖励:
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#yaYeF)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-8-月-27-日结算" >}})
 -   服务器参数调整:
     -   CN3/CN5/CN7/CN11 在地图轮换池中增加 map18 地图(顺序: untildeath4 -> map18 -> map13)
 
@@ -401,7 +416,7 @@ TableOfContents: true
         -   CB2 \* 1
     -   累计奖励:
         -   彩票 \* 3
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#LQSAY)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-8-月-20-日结算" >}})
 -   服务器参数调整:
 
     -   新增购买指令, 以 /im 开头, 加入了如下指令:
@@ -466,13 +481,13 @@ TableOfContents: true
     -   定期奖励:
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#jnBMA)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-8-月-13-日结算" >}})
 -   服务器参数调整:
-    -   [抽卡折扣活动](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#Xowvw) 服务器活动结束
+    -   [抽卡折扣活动]({{< ref "/gflnp/event#抽卡折扣活动已结束" >}}) 服务器活动结束
     -   游戏机制增加: 根据 冥府乌鸦 贡献的代码并加以调整, 现每次完成地图(显示结算提示时)会进行全服奖励(奖励到每个在线玩家), 奖励内容如下:日后可能会不定期调整过图奖励内容
         -   2000 RP
         -   紫箱子 \* 1
-    -   [群管理员手册](https://www.yuque.com/zhaozisong/rwr-gfl-imba/go1nx4) 所用的购买指令价格调整: 每件物品价格调整为之前的 3 倍, 但不限制使用次数
+    -   [群管理员手册]({{< ref "/gflnp/group_manager" >}}) 所用的购买指令价格调整: 每件物品价格调整为之前的 3 倍, 但不限制使用次数
 
 ### 2022 年 8 月 6 日 21 点 27 分
 
@@ -489,14 +504,14 @@ TableOfContents: true
         -   作战报告书 \* 2
         -   彩票 \* 1
         -   装备建造许可 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#NFJb0)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-8-月-13-日结算" >}})
 -   服务器参数调整:
     -   格里芬 AI 的 RP 浮动下限 **提升** 到 300 RP, 改动后为 300 ~ 1200 RP
     -   地图轮换池 **移除** `untildeath2` 及 `Red Dawn2` 地图
     -   地图轮换池 **增加** `map13_2` 地图
     -   彩票车内 **增加** `黄金巴雷特` 物品出售
     -   动态敌方 AI 参数由 1.1 **上升** 到 1.2
--   [抽卡折扣活动 ](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#Xowvw)开启
+-   [抽卡折扣活动]({{< ref "/gflnp/event#抽卡折扣活动已结束" >}})开启
 
 ### 2022 年 8 月 4 日 21 点 36 分
 
@@ -532,7 +547,7 @@ TableOfContents: true
         -   CB1 \* 1
         -   CB2 \* 1
         -   彩票 \* 1(维护累计奖励)
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#BJ1lY)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-7-月-30-日结算" >}})
 -   服务器参数调整
     -   所有玩家阵营: **移除** F-16 电台呼叫
     -   所有玩家阵营: **增加** 狙击支援 电台呼叫
@@ -551,7 +566,7 @@ TableOfContents: true
     -   定期奖励:
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#uWq1V)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-7-月-23-日结算" >}})
 
 ### 2022 年 7 月 16 日 15 点 30 分
 
@@ -564,7 +579,7 @@ TableOfContents: true
     -   定期奖励:
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#CmPJ2)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-7-月-16-日结算" >}})
 -   服务器参数调整:
     -   CB1 奖池 **移除 **`信标枪`
     -   CB1 奖池 **移除** `4 周年信物`
@@ -595,7 +610,7 @@ TableOfContents: true
     -   定期奖励:
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#vNj49)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-7-月-8-日结算" >}})
 
 ### 2022 年 7 月 6 日 22 点 40 分
 
@@ -623,7 +638,7 @@ TableOfContents: true
     -   定期奖励:
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#BxctN)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-7-月-1-日结算" >}})
 -   额外说明:
     -   CN7 与 CN11 服务器涉及到系统级重启维护, 所需时间较长
 
@@ -640,7 +655,7 @@ TableOfContents: true
         -   CB2 \* 1
     -   维护延迟奖励:
         -   彩票 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#uPY5z)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-6-月-24-日结算" >}})
     -   运营文档更新奖励: 入群奖励 文档 **调整**: 新玩家将获得如下黑卡复活自带武器奖励, 并且全服发放一份奖励(不限制 SteamID), 括号内为武器 key
         -   AR15 心智升级 (gw_ar15_mod_re_sl.weapon) \* 2
         -   M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) \* 2
@@ -648,18 +663,18 @@ TableOfContents: true
         -   M4A1 心智升级 (gw_m4a1_mod_re.weapon) \* 2
 -   服务器参数调整:
     -   所有服务器:
-        -   [ERC 兵种体验活动](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#m0Zoo) 结束
+        -   [ERC 兵种体验活动]({{< ref "/gflnp/event#erc-兵种体验活动已结束" >}}) 结束
         -   军械库增加如下护甲售卖:
             -   IOP 光学迷彩披风
             -   IOP IV 型防弹护板
             -   IOP T4 型外骨骼
             -   IOP X4 型外骨骼
-    -   CN5: [守点地图轮换体验活动](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#Hmtxy) 结束
+    -   CN5: [守点地图轮换体验活动]({{< ref "/gflnp/event#守点地图轮换体验活动已结束" >}}) 结束
     -   CN11:
-        -   [高难地图轮换体验活动](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#PxL2E) 结束
+        -   [高难地图轮换体验活动]({{< ref "/gflnp/event#高难地图轮换体验活动已结束" >}}) 结束
         -   服务器玩家上限由 26 人 **下降为** 18 人
 -   玩家手册更新
-    -   更新了 **回档** 中 [黑卡复活自带武器](https://www.yuque.com/zhaozisong/rwr-gfl-imba/ygnr7m#b3kDB) 章节
+    -   更新了 **回档** 中 [黑卡复活自带武器]({{< ref "/gflnp/user_manual#回档" >}}) 章节
 
 ### 2022 年 6 月 17 日 20 点 20 分
 
@@ -672,7 +687,7 @@ TableOfContents: true
     -   定期奖励:
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#BdQdZ)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-6-月-17-日结算" >}})
     -   累计奖励:
         -   彩票 \* 1
 -   服务器参数调整:
@@ -681,8 +696,8 @@ TableOfContents: true
         -   CN4
         -   CN6
         -   CN8
-    -   CN5 服务器开启 [守点地图轮换体验活动](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#Hmtxy)
-    -   CN11 服务器开启 [高难地图轮换体验活动](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#PxL2E)
+    -   CN5 服务器开启 [守点地图轮换体验活动]({{< ref "/gflnp/event#守点地图轮换体验活动已结束" >}})
+    -   CN11 服务器开启 [高难地图轮换体验活动]({{< ref "/gflnp/event#高难地图轮换体验活动已结束" >}})
 
 ### 2022 年 6 月 15 日 22 点 28 分
 
@@ -706,7 +721,7 @@ TableOfContents: true
 -   维护奖励:
     -   彩票 \* 10(弥补因更新失误导致频繁触发此问题)
 -   服务器参数调整:
-    -   所有服务器加入新图轮换, 顺序如下(已更新 玩家手册中 [地图轮换顺序](https://www.yuque.com/zhaozisong/rwr-gfl-imba/ygnr7m#MNcmm) 文档):
+    -   所有服务器加入新图轮换, 顺序如下(已更新 玩家手册中 [地图轮换顺序]({{< ref "/gflnp/user_manual#地图轮换顺序" >}}) 文档):
         1. ...
         2. clairmont
         3. untildeath
@@ -753,7 +768,7 @@ TableOfContents: true
     -   定期奖励:
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#UuLEJ)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-6-月-10-日结算" >}})
     -   累计奖励:
         -   载具盒子 \* 1
         -   彩票 \* 2
@@ -824,7 +839,7 @@ TableOfContents: true
     -   定期奖励:
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#JXnY5)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-6-月-2-日结算" >}})
 
 ### 2022 年 5 月 27 日 20 点 20 分
 
@@ -839,7 +854,7 @@ TableOfContents: true
         -   CB2 \* 1
     -   5 月 24 维护延迟奖励:
         -   彩票 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#UdwAS)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-5-月-27-日结算" >}})
 -   服务器参数调整:
     -   全部服务器:
         -   彩票中 `小帮手修复榴弹发射器`概率 **上调**, 0.1f 权重 **调整为 0.5f**
@@ -868,11 +883,11 @@ TableOfContents: true
     -   定期奖励:
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#NTRb2)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-5-月-20-日结算" >}})
 -   服务器参数调整:
     -   全部服务器:
         -   为保持服务器名称统一, 服务器名称规则调整: `=IMBA=`替换为`Imba`
-        -   [GST3 兵种体验 ](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#M4qef)活动结束
+        -   [GST3 兵种体验]({{< ref "/gflnp/event#gst3-兵种体验活动已结束" >}})活动结束
 
 ### 2022 年 5 月 13 日 20 点 20 分
 
@@ -885,8 +900,8 @@ TableOfContents: true
     -   定期奖励:
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#MMK7B)
-    -   活动开启奖励([GST3 兵种体验活动](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#M4qef)):
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-5-月-13-日结算" >}})
+    -   活动开启奖励([GST3 兵种体验活动]({{< ref "/gflnp/event#gst3-兵种体验活动已结束" >}})):
         -   CB1 \* 1
         -   CB2 \* 1
         -   作战报告书 \* 2
@@ -913,7 +928,7 @@ TableOfContents: true
     -   定期奖励:
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#O9gNN)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-5-月-7-日结算" >}})
 -   额外说明:
     -   CN11 为 **真实视野** 服务器, 掉率更高, 可以去游戏设置开启真实视野去游玩, 体验更佳
 
@@ -925,7 +940,7 @@ TableOfContents: true
 -   结束时间: 2022-5-4 21:23
 -   维护时长: 23 分钟
 -   维护奖励: 无
--   额外说明: [五一整合活动](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#He7qB) 活动结束, 服务器参数恢复
+-   额外说明: [五一整合活动]({{< ref "/gflnp/event#五一整合活动已结束" >}}) 活动结束, 服务器参数恢复
 
 ### 2022 年 4 月 30 日 8 点 50 分
 
@@ -947,10 +962,10 @@ TableOfContents: true
     -   定期奖励:
         -   CB1 \* 1
         -   CB2 \* 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1#loB0X)
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-4-月-29-日结算" >}})
     -   延期奖励:
         -   彩票 \* 10
-    -   活动开启奖励([五一整合活动](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#He7qB)):
+    -   活动开启奖励([五一整合活动]({{< ref "/gflnp/event#五一整合活动已结束" >}})):
         -   CB1 \* 1
         -   CB2 \* 1
         -   作战报告书 \* 2
@@ -993,8 +1008,8 @@ TableOfContents: true
 -   结束时间: 2022-4-22 21:00
 -   维护时长: 40 分钟
 -   维护奖励:
-    -   定期奖励: CB1 _ 1, CB2 _ 1
-    -   结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1)
+    -   定期奖励: CB1 \* 1, CB2 \* 1
+    -   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-4-月-22-日结算" >}})
     -   系统更新补偿延期奖励: 彩票 \* 20
 -   服务器参数调整:
     -   CN3
@@ -1072,7 +1087,8 @@ TableOfContents: true
 -   开始时间: 2022-4-15 20:20
 -   结束时间: 2022-4-15 21:13
 -   维护时长: 53 分钟
--   维护奖励: CB1 _ 1, CB2 _ 1, 并结算 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/tahxh1)
+-   维护奖励: CB1 \* 1, CB2 _\* 1, 并结算 [入群奖励]    
+-   结算 [入群奖励]({{< ref "/gflnp/group_history#2022-年-4-月-15-日结算" >}})
 -   服务器参数调整:
     -   US1 服加入 **存档同步**
     -   全部 imba 服务器: map18 从地图轮换池中 **移除 **
@@ -1107,8 +1123,8 @@ TableOfContents: true
     -   全服奖励
         -   CB1 \* 1
         -   CB2 \* 1
-    -   活动奖励: 结算 [6 星活动奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#hqxVX)
-    -   运营文档更新奖励: 全服发放一份 [入群奖励](https://www.yuque.com/zhaozisong/rwr-gfl-imba/lo52vd#xEev7), 内容如下
+    -   活动奖励: 结算 [6 星活动奖励]({{< ref "/gflnp/event#冲-6-星人形奖励已结束" >}})
+    -   运营文档更新奖励: 全服发放一份 [入群奖励]({{< ref "/gflnp/operations#入群奖励" >}}), 内容如下
         -   CB1 \* 1
         -   作战报告书 \* 2
         -   彩票 \* 1
@@ -1143,7 +1159,7 @@ TableOfContents: true
 -   结束时间: 2022-4-5 20:45
 -   维护时长: 5 分钟
 -   维护奖励: 无
--   服务器参数调整: [map8-2 试点活动](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#kTYqK) 结束, 服务器名称复原
+-   服务器参数调整: [map8-2 试点活动]({{< ref "/gflnp/event#map8_2-试点活动已结束" >}}) 结束, 服务器名称复原
 
 ### 2022 年 4 月 5 日 16 点 51 分
 
@@ -1209,7 +1225,7 @@ TableOfContents: true
 -   服务器参数调整: 全部 CN 服: **移除 **`buy 3` 指令, 现在执行该指令不再有任何事件发生
 -   服务器参数调整: 全部 CN 服: `Paradeus` 阵营携带战利品概率 **临时大幅提高(今后可能会重调)**: 部分兵种 15% -> 25%
 -   额外说明:
-    -   本次维护开启活动, 活动见: [map8_2 试点活动](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#kTYqK)
+    -   本次维护开启活动, 活动见: [map8_2 试点活动]({{< ref "/gflnp/event#map8_2-试点活动已结束" >}})
     -   标记为 `L1` 标识的为 80% 准度
     -   标记为 `L2` 标识的为 85% 准度
 
@@ -1232,7 +1248,7 @@ TableOfContents: true
 -   维护时长: 10 分钟
 -   维护奖励: 无
 -   额外说明:
-    -   本次维护为活动结束维护, 活动见: [抽奖折扣活动](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#eADtl)
+    -   本次维护为活动结束维护, 活动见: [抽奖折扣活动]({{< ref "/gflnp/event#抽奖折扣活动已结束" >}})
 
 ### 2022 年 3 月 27 日 18 点 20 分
 
@@ -1264,7 +1280,7 @@ TableOfContents: true
     -   Mod 更新维护奖励: CB1, CB2, 玩具盒子, 彩票, 白卡, 黑卡: 各一个
     -   抽奖折扣活动奖励: 黑卡, 白卡, 彩票, 装备建造许可: 各 1 个
 -   额外说明
-    -   活动说明见: [抽奖折扣活动](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#eADtl)
+    -   活动说明见: [抽奖折扣活动]({{< ref "/gflnp/event#抽奖折扣活动已结束" >}})
 
 ### 2022 年 3 月 18 日 20 点 20 分
 
@@ -1286,7 +1302,7 @@ TableOfContents: true
 -   维护奖励: 无
 -   服务器参数调整: 修复没有防空炮地图可以呼叫 A10 攻击机支援问题
 -   额外说明:
-    -   本次维护为活动结束维护, 活动链接: [https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#NRHk3](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#NRHk3)
+    -   本次维护为活动结束维护, 活动链接: [TEL 改造兵种体验]({{< ref "/gflnp/event#tel-改造兵种体验已结束" >}})
 
 ### 2022 年 3 月 13 日 15 点 00 分
 
@@ -1309,7 +1325,7 @@ TableOfContents: true
 -   服务器参数调整: 全部 CN 服: CB2 奖池 **移除** 信物盒子
 -   额外说明:
     -   活动更新内容在活动说明, 今后不在在此说明
-    -   本次维护开启活动, 活动链接: [https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#NRHk3](https://www.yuque.com/zhaozisong/rwr-gfl-imba/qddxgg#NRHk3)
+    -   本次维护开启活动, 活动链接: [TEL 改造兵种体验]({{< ref "/gflnp/event#tel-改造兵种体验已结束" >}})
 
 ### 2022 年 3 月 8 日 20 点 37 分
 
