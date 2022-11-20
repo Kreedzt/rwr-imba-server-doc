@@ -8,6 +8,53 @@
     <language>zh-cn</language>
     <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kreedzt.github.io/rwr-imba-server-doc/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>服务器活动</title>
+      <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/event/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/event/</guid>
+      <description>用法 此文档用以记录活动内容/方式/奖励说明
+活动准则 活动应明确标明开始日期, 结算日期(精确到小时, 通常是服务器周常维护时间) 活动应明确, 详细地阐述获取物品的方式, 不可发放过于破坏平衡性的游戏物品, 应以盒子为基础 活动开始与结束时都应发以群公告形式提前通知玩家 应特殊情况要修改内容的, 需至少提前 1 小时告知玩家 针对活动的不同状态, 应以不同颜色表明标题: 颜色 为未开始, 颜色 为进行中, 颜色 为已结束 记录 国庆节活动(已结束) 开始时间: 2022-09-29 维护后 结束时间: 2022-10-07 维护前 服务器范围: 全部服务器 奖励物品(对于一日人形, 获得双份奖励): G.H.S 盒子 * 2 服务器参数调整: 过图奖励增幅: 提升为 4000 RP + 紫箱子 + G.H.S 箱子 移除 AC-130 空中炮艇支援 新增 AH-64 空中支援 移除 105mm 支援 新增 155mm 支援 G.H.S 物品已全部替换, 有极低概率获得 EV 武器(AA-12/TKB-059/PF-98/Super SASS)
+抽卡折扣活动(已结束) 开始日期: 2022 年 08 月 06 日维护后 结算日期: 2022 年 08 月 13 日维护前 奖励物品(开始时发放): 彩票 * 1 装备建造许可 * 1 作战报告书 * 2 获取条件: 无, 全服发放(开始时发放) 服务器参数调整: 彩票价格调整为 9 折: 1000 RP -&amp;gt; 900 RP 服务器参数调整: 装备建造许可价格调整为 7 折: 450 RP -&amp;gt; 315 RP 额外说明: 标价依旧为原价(如: 彩票标价为 1000 RP), 实际上消费扣除是折扣价格 ERC 兵种体验活动(已结束) 开始日期：2022 年 6 月 17 日 维护后 结算日期：2022 年 6 月 24 日 维护前 服务器范围: 全部服务器 奖励物品： CB1 * 1 CB2 * 1 作战报告书 * 2 获取条件：无, 开始时全服发放 服务器参数调整: 全部服务器: 所有玩家(steam 唯一)兵种依旧不变, 但是获得 ERC 的购买及呼叫加成 **新增电台支援: **AH-64 空中支援 **新增电台支援: **155 榴弹炮打击 守点地图轮换体验活动(已结束) 开始日期：2022 年 6 月 17 日 维护后 结算日期：2022 年 6 月 24 日 维护前 服务器范围: CN5 奖励物品：无 服务器参数调整: CN5 : 地图轮换调整为: map13-2 map7 map8 untildeath untildeath3 untildeath4 高难地图轮换体验活动(已结束) 开始日期：2022 年 6 月 17 日 维护后 结算日期：2022 年 6 月 24 日 维护前 服务器范围: CN11 奖励物品：无 服务器参数调整: CN11: XP 倍率 提升到 2.</description>
+    </item>
+    
+    <item>
+      <title>服务器维护记录</title>
+      <link>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/server_maintance/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/server_maintance/</guid>
+      <description>用法 此文档记录每次需要服务器停机维护的内容, 及统计 维护类型：(以标题区分颜色）
+颜色的为定期维护/活动维护 颜色的为 Mod/游戏本体更新维护 颜色的为紧急维护 记录 2022 年 11 月 20 日 11 点 55 分 维护范围: 全部服务器 维护原因: Mod 更新维护 开始时间: 2022-11-20 11:55 结束时间: 2022-11-20 12:08 维护时长: 13 分钟 2022 年 11 月 19 日 20 点 20 分 维护范围: 全部服务器 维护原因: Mod 更新维护 开始时间: 2022-11-19 20:20 结束时间: 2022-11-19 20:50 维护时长: 30 分钟 服务器参数调整 因语雀收费问题, 所有服务器描述地址转为 github doc 地址 2 服不再是 200% 兵力, 降低为 100% 兵力, 2 服为敌方 Siren 阵营进场, 1 服 为 Azur Lane 原始阵营进场.</description>
+    </item>
+    
+    <item>
+      <title>服务器维护记录</title>
+      <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server_maintance/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server_maintance/</guid>
+      <description>用法 此文档记录每次需要服务器停机维护的内容, 及统计 维护类型：(以标题区分颜色）
+颜色的为定期维护/活动维护 颜色的为 Mod/游戏本体更新维护 颜色的为紧急维护 统计 截止到 2022 年 9 月 10 日, 已发放的全服奖励(不包含有要求的活动):
+CB1 * 47 CB2 * 43 彩票 * 91 黑卡 * 7 白卡 * 6 载具盒子 * 1 玩具盒子 * 5 装备建造许可 * 2 作战报告书 * 10 AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_mod_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.weapon) * 2 空袭标记信号弹 * 2 记录 2022 年 11 月 19 日 21 点 维护范围: 全部服务器 维护原因: 定期维护 开始时间: 2022-11-19 21:00 结束时间: 2022-11-19 21:41 维护时长: 41 分钟 维护奖励 定期维护 CB1 * 1 CB2 * 1 结算 入群奖励 服务器参数调整 格里芬阵营携带 cb 武器的 AI 刷新概率 提高至 5 倍 2022 年 11 月 11 日 21 点 维护范围: 全部服务器 维护原因: 定期维护, Mod 更新维护 开始时间: 2022-11-11 21:00 结束时间: 2022-11-11 21:26 维护时长: 26 分钟 维护奖励 定期维护 CB1 * 1 CB2 * 1 结算 入群奖励 Mod 更新维护 UR 卡 * 1 2022 年 11 月 6 日 21 点 维护范围: 全部服务器 维护原因: 定期维护 开始时间: 2022-11-06 21:00 结束时间: 2022-11-06 21:22 维护时长: 22 分钟 维护奖励 定期维护 CB1 * 1 CB2 * 1 结算 入群奖励 服务器参数调整 服务器说明地址指向更改为 github 2022 年 10 月 29 日 20 点 20 分 维护范围: 全部服务器 维护原因: 定期维护 开始时间: 2022-10-29 20:20 结束时间: 2022-10-29 20:42 维护时长: 22 分钟 维护奖励 定期维护 CB1 * 1 CB2 * 1 结算 入群奖励 服务器参数调整: 空降仓 临时加入电台呼叫 2022 年 10 月 26 日 14 点 维护范围: 全体服务器 维护原因: 游戏本体更新维护(1.</description>
+    </item>
+    
+    <item>
+      <title>玩家手册</title>
+      <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/user_manual/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/user_manual/</guid>
+      <description>平衡性测试中平衡性测试中, 期间可能会调整服务器参数 imba 服务器 QQ 群: 837341470 改造(待完善，完善前暂不启用此计划） 平衡性测试中
+因平衡性测试中，本服暂不提供改造
+可用指令(继承自 Mod) 指令使用方式: 前缀用 &amp;ldquo;/&amp;rdquo; 执行 例: /buy 1
+buy 指令 购买物品 buy 指令给 2 个参数时, 最后一个参数是 &amp;ldquo;接受者&amp;rdquo; ID
+buy 1 kreedzt : 给 kreedzt 执行 buy 1 指令
+1: 医疗包 2: 大扳手 4: M202 &amp;ldquo;闪光&amp;rdquo; 火箭发射器 5: 快速修复许可 link 指令 消耗携带着的一个核心，根据你的武器, 生成一个相同武器的人形 支持的人形列表:
+ak12 an94 ar15 m16a1 m4a1 m4_sopmod_ii g11 hk416 ump9 ump45 m1873 m9 m14 98k m99 m82a1 sv98 fnfnc type 95 mp40 mp5 mg42 pkp negev m2hb aa-12 spas-12 im 指令 imba 额外增设的特殊购买指令</description>
+    </item>
+    
+    <item>
       <title>CB 自选计划</title>
       <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/cb_select/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
@@ -112,27 +159,6 @@ PF-98 XN1 120mm 火箭筒 元数据 key: pf98.weapon class: 4 分级: SR 来源:
     </item>
     
     <item>
-      <title>服务器活动</title>
-      <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/event/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/event/</guid>
-      <description>用法 此文档记录运营的相关内容，主要为福利发放规则
-规则 发放物品准则 发放物品原则分为以下几种：
-每周定期维护奖励 mod 更新，当日奖励（与其他奖励可叠加），当日多次更新不叠加 紧急维护奖励 个人奖励 活动奖励(会记录在 《服务器活动记录》 文档中) 维护超时奖励 入群奖励 定期维护 维护准则：应提前 1 小时通知玩家
-服务器每周进行定期维护，维护后，更新《服务器维护记录文档》，并给全服玩家发放奖励(若同 steam 用户有多用户, 则取游玩时间最长的用户)至背包，奖励内容：
-CB1 * 1 CB2 * 1 Mod 更新 维护准则：应提前 10 分钟通知玩家
-因上游 Mod 更新导致的服务器需要维护时，在服务器停机维护后，更新《服务器维护记录文档》，并给全服玩家发放 新增 的可抽卡内容，每种数量为 1 个. 对于 1 日人形 的玩家, 发放双份奖励
-如: Mod 更新在 “黑卡”“白卡”中新增了武器时，计算为：全服玩家发放白卡1，黑卡1，多种同抽卡不叠加
-对于蓝“蓝箱子”“紫箱子”“泰坦箱子”, 不在统计范围之内
-紧急维护 维护准则：视紧急情况，应提前 30 分钟通知玩家，特别紧急时应提前 10 分钟通知玩家
-因 US1 服务器过于卡顿, US1 炸服时不进行奖励发放
-因突发情况导致的服务器需要紧急维护时，维护完成后，更新《服务器维护记录》文档，给全服玩家发放“彩票”* 1
-以下情况视为紧急情况：
-某玩家打了 “炸服”相关指令时 服务器负载打满导致异常卡顿时 存档丢失时 rwr 服务脚本执行崩溃时（具体表现：抽卡一直不生效/打 buy 等指令一直无效等） 个人奖励 本节待完善，内容会有所调整</description>
-    </item>
-    
-    <item>
       <title>服务器相关</title>
       <link>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/server/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
@@ -152,27 +178,6 @@ XP: 100% 敌我 AI 数量: 200% 敌我 AI 精准度: 90% </description>
       <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server/</guid>
       <description>开服相关 配置 1: 腾讯云: 4 核/4G 内存/8M 带宽, win server 2019 数据中心版 IP：42.192.148.161 端口：50167 3: 腾讯云: 4 核/4G 内存/8M 带宽, win server 2019 数据中心版 IP：124.222.46.179 端口：50167 5: 腾讯云: 4 核/4G 内存/8M 带宽, win server 2019 数据中心版 IP：124.223.113.204 端口：50167 7: 腾讯云: 4 核/4G 内存/8M 带宽, win server 2019 数据中心版 IP: 124.223.71.223 端口：50167 11: 腾讯云: 4 核/4G 内存/8M 带宽, win server 2019 数据中心版 IP: 124.223.71.223 端口：50067 参数 平衡性测试中, 期间可能会调整服务器参数
 彩票相关 冰淇淋车车内 增加 黄金巴雷特 物品出售 彩票中 移除 G.</description>
-    </item>
-    
-    <item>
-      <title>服务器维护记录</title>
-      <link>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/server_maintance/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/server_maintance/</guid>
-      <description>用法 此文档记录每次需要服务器停机维护的内容, 及统计 维护类型：(以标题区分颜色）
-颜色的为定期维护/活动维护 颜色的为 Mod/游戏本体更新维护 颜色的为紧急维护 记录 2022 年 10 月 26 日 14 点 维护范围: 全体服务器 维护原因: 游戏本体更新维护(1.95) 开始时间: 2022-10-26 14:00 结束时间: 2022-10-26 14:33 维护时长: 33 分钟 维护奖励: 无 2022 年 9 月 17 日 9 点 维护范围: 全部服务器 维护原因: 服务器参数修改 开始时间: 2022-09-24 20:20 预计结束时间: 2022-09-24 21:41 预计维护时长: 1 小时 20 分钟 服务器参数调整: 本次维护涉及到所有服务器的名称修改, 所以所有服务器都需要维护, 名称格式如下: Imba &amp;gt; [Mod Name] #[Server No.] 2022 年 9 月 17 日 9 点 维护范围: 全体服务器 维护原因: 游戏本体更新维护(1.</description>
-    </item>
-    
-    <item>
-      <title>服务器维护记录</title>
-      <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server_maintance/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server_maintance/</guid>
-      <description>用法 此文档记录每次需要服务器停机维护的内容, 及统计 维护类型：(以标题区分颜色）
-颜色的为定期维护/活动维护 颜色的为 Mod/游戏本体更新维护 颜色的为紧急维护 统计 截止到 2022 年 9 月 10 日, 已发放的全服奖励(不包含有要求的活动):
-CB1 * 47 CB2 * 43 彩票 * 91 黑卡 * 7 白卡 * 6 载具盒子 * 1 玩具盒子 * 5 装备建造许可 * 2 作战报告书 * 10 AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_mod_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.weapon) * 2 空袭标记信号弹 * 2 记录 2022 年 11 月 11 日 21 点 维护范围: 全部服务器 维护原因: 定期维护, Mod 更新维护 开始时间: 2022-11-11 21:00 结束时间: 2022-11-11 21:26 维护时长: 26 分钟 维护奖励 定期维护 CB1 * 1 CB2 * 1 结算 入群奖励 Mod 更新维护 UR 卡 * 1 2022 年 11 月 6 日 21 点 维护范围: 全部服务器 维护原因: 定期维护 开始时间: 2022-11-06 21:00 结束时间: 2022-11-06 21:22 维护时长: 22 分钟 维护奖励 定期维护 CB1 * 1 CB2 * 1 结算 入群奖励 服务器参数调整 服务器说明地址指向更改为 github 2022 年 10 月 29 日 20 点 20 分 维护范围: 全部服务器 维护原因: 定期维护 开始时间: 2022-10-29 20:20 结束时间: 2022-10-29 20:42 维护时长: 22 分钟 维护奖励 定期维护 CB1 * 1 CB2 * 1 结算 入群奖励 服务器参数调整: 空降仓 临时加入电台呼叫 2022 年 10 月 26 日 14 点 维护范围: 全体服务器 维护原因: 游戏本体更新维护(1.</description>
     </item>
     
     <item>
@@ -203,21 +208,6 @@ CB1 * 47 CB2 * 43 彩票 * 91 黑卡 * 7 白卡 * 6 载具盒子 * 1 玩具盒�
 若前线大部队推进时，请不要把军械车归为己用进行操作 看到成堆的掉落物品不要去捡，被玩家举报后，多次舔尸行为会进行封禁处理 请不要报以复性为目的 TK 队友，如误操作应打 sry 表以歉意，遇到违反规则操作应及时举报，每次举报会更新举报文档列表 请不要公屏发言刷屏 请不要过图 TK 请不要炸毁友方载具（包括但不限于：指挥车/通讯车/队友丢的车烟等） 遇到携带披风与消音武器做潜行的队友时，确保你的装备不会产生负面影响 携带嘲讽单位的玩家请尽量不要站在高楼处，不仅敌方 AI 更容易发现，且高楼一般是潜行玩家位置 尽量不要携带队友呼叫的空降伞兵 AI（注意你携带的 AI 数量) 禁止恶意占用电台, 单次连续不能呼叫数量 &amp;gt;2, 呼叫完成后需等待自己呼叫队列完成再进行下一次呼叫 关于游戏地图特性针对的特殊规则：
 map13_2禁止刷信号塔 黑猫图禁止上墙 信息查询 本服包含个人信息查询系统, 网页访问可查询玩家信息, 地址为: http://42.192.148.161:9292/
 攻略 注意服务器描述, 若为双倍 AI 的服务器, 通常难度更高 军械库中出售的 **冷却水 **是无限次修甲工具, 建议购买 补给车 会出售敌方阵营强力武器, 但无法重生补给且掉落消失 若进攻目标点包含信号塔, 炸毁前注意占领时间, 因占领会轮换机制, 占领后的据点内** 信号塔归为己方** 所有服务器的同步存档延迟通常在 20 秒 ~ 30 秒之间, 切服尽量不要过快 游戏术语 倒地时，可根据情况在公屏打出以下内容</description>
-    </item>
-    
-    <item>
-      <title>玩家手册</title>
-      <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/user_manual/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/user_manual/</guid>
-      <description>平衡性测试中平衡性测试中, 期间可能会调整服务器参数 imba 服务器 QQ 群: 837341470 改造(待完善，完善前暂不启用此计划） 平衡性测试中
-因平衡性测试中，本服暂不提供改造
-可用指令(继承自 Mod) 指令使用方式: 前缀用 &amp;ldquo;/&amp;rdquo; 执行 例: /buy 1
-buy 指令 购买物品 buy 指令给 2 个参数时, 最后一个参数是 &amp;ldquo;接受者&amp;rdquo; ID
-buy 1 kreedzt : 给 kreedzt 执行 buy 1 指令
-1: 医疗包 2: 大扳手 4: M202 &amp;ldquo;闪光&amp;rdquo; 火箭发射器 5: 快速修复许可 link 指令 消耗携带着的一个核心，根据你的武器, 生成一个相同武器的人形 支持的人形列表:
-ak12 an94 ar15 m16a1 m4a1 m4_sopmod_ii g11 hk416 ump9 ump45 m1873 m9 m14 98k m99 m82a1 sv98 fnfnc type 95 mp40 mp5 mg42 pkp negev m2hb aa-12 spas-12 im 指令 imba 额外增设的特殊购买指令</description>
     </item>
     
     <item>

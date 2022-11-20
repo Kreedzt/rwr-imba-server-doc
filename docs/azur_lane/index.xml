@@ -8,6 +8,16 @@
     <language>zh-cn</language>
     <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>服务器维护记录</title>
+      <link>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/server_maintance/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/server_maintance/</guid>
+      <description>用法 此文档记录每次需要服务器停机维护的内容, 及统计 维护类型：(以标题区分颜色）
+颜色的为定期维护/活动维护 颜色的为 Mod/游戏本体更新维护 颜色的为紧急维护 记录 2022 年 11 月 20 日 11 点 55 分 维护范围: 全部服务器 维护原因: Mod 更新维护 开始时间: 2022-11-20 11:55 结束时间: 2022-11-20 12:08 维护时长: 13 分钟 2022 年 11 月 19 日 20 点 20 分 维护范围: 全部服务器 维护原因: Mod 更新维护 开始时间: 2022-11-19 20:20 结束时间: 2022-11-19 20:50 维护时长: 30 分钟 服务器参数调整 因语雀收费问题, 所有服务器描述地址转为 github doc 地址 2 服不再是 200% 兵力, 降低为 100% 兵力, 2 服为敌方 Siren 阵营进场, 1 服 为 Azur Lane 原始阵营进场.</description>
+    </item>
+    
+    <item>
       <title>数据提取记录</title>
       <link>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/data_export/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
@@ -27,16 +37,6 @@
 1:
 XP: 100% 敌我 AI 数量: 100% 敌我 AI 精准度: 90% 2:
 XP: 100% 敌我 AI 数量: 200% 敌我 AI 精准度: 90% </description>
-    </item>
-    
-    <item>
-      <title>服务器维护记录</title>
-      <link>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/server_maintance/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://kreedzt.github.io/rwr-imba-server-doc/azur_lane/server_maintance/</guid>
-      <description>用法 此文档记录每次需要服务器停机维护的内容, 及统计 维护类型：(以标题区分颜色）
-颜色的为定期维护/活动维护 颜色的为 Mod/游戏本体更新维护 颜色的为紧急维护 记录 2022 年 10 月 26 日 14 点 维护范围: 全体服务器 维护原因: 游戏本体更新维护(1.95) 开始时间: 2022-10-26 14:00 结束时间: 2022-10-26 14:33 维护时长: 33 分钟 维护奖励: 无 2022 年 9 月 17 日 9 点 维护范围: 全部服务器 维护原因: 服务器参数修改 开始时间: 2022-09-24 20:20 预计结束时间: 2022-09-24 21:41 预计维护时长: 1 小时 20 分钟 服务器参数调整: 本次维护涉及到所有服务器的名称修改, 所以所有服务器都需要维护, 名称格式如下: Imba &amp;gt; [Mod Name] #[Server No.] 2022 年 9 月 17 日 9 点 维护范围: 全体服务器 维护原因: 游戏本体更新维护(1.</description>
     </item>
     
     <item>
