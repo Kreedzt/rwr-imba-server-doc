@@ -8,25 +8,33 @@
     <language>zh-cn</language>
     <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kreedzt.github.io/rwr-imba-server-doc/gflnp/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>入群历史</title>
+      <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/group_history/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/group_history/</guid>
+      <description>用法 此文档记录入群历史 记录以日期作为标题, **每周 **做一次结算 每节内容都应该为表格, 且详细记录邀请人及入群人 邀请人用户名由 入群人 确认后发给管理员/群管理员统计 奖励与每周定期奖励日叠加发放 已结算奖励的标题用 颜色 标识, 未结算的用 颜色 标识 结算时, 每一项的双方奖励/单方奖励(没有邀请人视为单方奖励): 彩票 * 1 CB1 * 1 作战报告书 * 2 对于入群人, 额外发放黑卡复活自带武器奖励(6 月 24 日维护变更): AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_moed_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.weapon) * 2 记录 2022 年 11 月 26 日结算 2022 年 11 月 19 日结算 2022 年 11 月 11 日结算 2022 年 11 月 6 日结算 2022 年 10 月 29 日结算 2022 年 10 月 22 日结算 2022 年 10 月 15 日结算 邀请人 入群人 WRSHOLLYLEAF V.</description>
+    </item>
+    
+    <item>
       <title>服务器活动</title>
       <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/event/</link>
-      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/event/</guid>
       <description>用法 此文档用以记录活动内容/方式/奖励说明
-活动准则 活动应明确标明开始日期, 结算日期(精确到小时, 通常是服务器周常维护时间) 活动应明确, 详细地阐述获取物品的方式, 不可发放过于破坏平衡性的游戏物品, 应以盒子为基础 活动开始与结束时都应发以群公告形式提前通知玩家 应特殊情况要修改内容的, 需至少提前 1 小时告知玩家 针对活动的不同状态, 应以不同颜色表明标题: 颜色 为未开始, 颜色 为进行中, 颜色 为已结束 记录 国庆节活动(已结束) 开始时间: 2022-09-29 维护后 结束时间: 2022-10-07 维护前 服务器范围: 全部服务器 奖励物品(对于一日人形, 获得双份奖励): G.H.S 盒子 * 2 服务器参数调整: 过图奖励增幅: 提升为 4000 RP + 紫箱子 + G.H.S 箱子 移除 AC-130 空中炮艇支援 新增 AH-64 空中支援 移除 105mm 支援 新增 155mm 支援 G.H.S 物品已全部替换, 有极低概率获得 EV 武器(AA-12/TKB-059/PF-98/Super SASS)
-抽卡折扣活动(已结束) 开始日期: 2022 年 08 月 06 日维护后 结算日期: 2022 年 08 月 13 日维护前 奖励物品(开始时发放): 彩票 * 1 装备建造许可 * 1 作战报告书 * 2 获取条件: 无, 全服发放(开始时发放) 服务器参数调整: 彩票价格调整为 9 折: 1000 RP -&amp;gt; 900 RP 服务器参数调整: 装备建造许可价格调整为 7 折: 450 RP -&amp;gt; 315 RP 额外说明: 标价依旧为原价(如: 彩票标价为 1000 RP), 实际上消费扣除是折扣价格 ERC 兵种体验活动(已结束) 开始日期：2022 年 6 月 17 日 维护后 结算日期：2022 年 6 月 24 日 维护前 服务器范围: 全部服务器 奖励物品： CB1 * 1 CB2 * 1 作战报告书 * 2 获取条件：无, 开始时全服发放 服务器参数调整: 全部服务器: 所有玩家(steam 唯一)兵种依旧不变, 但是获得 ERC 的购买及呼叫加成 **新增电台支援: **AH-64 空中支援 **新增电台支援: **155 榴弹炮打击 守点地图轮换体验活动(已结束) 开始日期：2022 年 6 月 17 日 维护后 结算日期：2022 年 6 月 24 日 维护前 服务器范围: CN5 奖励物品：无 服务器参数调整: CN5 : 地图轮换调整为: map13-2 map7 map8 untildeath untildeath3 untildeath4 高难地图轮换体验活动(已结束) 开始日期：2022 年 6 月 17 日 维护后 结算日期：2022 年 6 月 24 日 维护前 服务器范围: CN11 奖励物品：无 服务器参数调整: CN11: XP 倍率 提升到 2.</description>
+活动准则 活动应明确标明开始日期, 结算日期(精确到小时, 通常是服务器周常维护时间) 活动应明确, 详细地阐述获取物品的方式, 不可发放过于破坏平衡性的游戏物品, 应以盒子为基础 活动开始与结束时都应发以群公告形式提前通知玩家 应特殊情况要修改内容的, 需至少提前 1 小时告知玩家 针对活动的不同状态, 应以不同颜色表明标题: 颜色 为未开始, 颜色 为进行中, 颜色 为已结束 记录 Pilot 改造兵种体验活动 开始时间: 2022-11-26 维护后 结束时间: 2022-12-03 维护前 奖励物品(对于一日人形, 获得双份奖励): G.H.S 抽奖券 * 2 CB1 * 1 CB2 * 1 作战报告书 * 2 服务器参数调整: 所有玩家账号兵种调整为 Pilot 额外说明: Pilot 拥有 0.1s 呼叫前摇, 请不要过多占用电台资源(单次轮回连续呼叫数&amp;lt;=2) Pilot 具有大多数兵种的军械库物品 Pilot 面板属性与 GST2 大致相同 国庆节活动(已结束) 开始时间: 2022-09-29 维护后 结束时间: 2022-10-07 维护前 服务器范围: 全部服务器 奖励物品(对于一日人形, 获得双份奖励): G.</description>
     </item>
     
     <item>
       <title>服务器维护记录</title>
       <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server_maintance/</link>
-      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server_maintance/</guid>
       <description>用法 此文档记录每次需要服务器停机维护的内容, 及统计 维护类型：(以标题区分颜色）
 颜色的为定期维护/活动维护 颜色的为 Mod/游戏本体更新维护 颜色的为紧急维护 统计 截止到 2022 年 9 月 10 日, 已发放的全服奖励(不包含有要求的活动):
-CB1 * 47 CB2 * 43 彩票 * 91 黑卡 * 7 白卡 * 6 载具盒子 * 1 玩具盒子 * 5 装备建造许可 * 2 作战报告书 * 10 AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_mod_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.weapon) * 2 空袭标记信号弹 * 2 记录 2022 年 11 月 19 日 21 点 维护范围: 全部服务器 维护原因: 定期维护 开始时间: 2022-11-19 21:00 结束时间: 2022-11-19 21:41 维护时长: 41 分钟 维护奖励 定期维护 CB1 * 1 CB2 * 1 结算 入群奖励 服务器参数调整 格里芬阵营携带 cb 武器的 AI 刷新概率 提高至 5 倍 2022 年 11 月 11 日 21 点 维护范围: 全部服务器 维护原因: 定期维护, Mod 更新维护 开始时间: 2022-11-11 21:00 结束时间: 2022-11-11 21:26 维护时长: 26 分钟 维护奖励 定期维护 CB1 * 1 CB2 * 1 结算 入群奖励 Mod 更新维护 UR 卡 * 1 2022 年 11 月 6 日 21 点 维护范围: 全部服务器 维护原因: 定期维护 开始时间: 2022-11-06 21:00 结束时间: 2022-11-06 21:22 维护时长: 22 分钟 维护奖励 定期维护 CB1 * 1 CB2 * 1 结算 入群奖励 服务器参数调整 服务器说明地址指向更改为 github 2022 年 10 月 29 日 20 点 20 分 维护范围: 全部服务器 维护原因: 定期维护 开始时间: 2022-10-29 20:20 结束时间: 2022-10-29 20:42 维护时长: 22 分钟 维护奖励 定期维护 CB1 * 1 CB2 * 1 结算 入群奖励 服务器参数调整: 空降仓 临时加入电台呼叫 2022 年 10 月 26 日 14 点 维护范围: 全体服务器 维护原因: 游戏本体更新维护(1.</description>
+CB1 * 60 CB2 * 56 彩票 * 92 黑卡 * 8 白卡 * 6 UR 卡 * 2 载具盒子 * 1 玩具盒子 * 6 信物盒子 * 2 装备建造许可 * 2 作战报告书 * 12 AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_mod_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.</description>
     </item>
     
     <item>
@@ -71,15 +79,6 @@ PF-98 XN1 120mm 火箭筒 元数据 key: pf98.weapon class: 4 分级: SR 来源:
       
       <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/report/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>入群历史</title>
-      <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/group_history/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/group_history/</guid>
-      <description>用法 此文档记录入群历史 记录以日期作为标题, **每周 **做一次结算 每节内容都应该为表格, 且详细记录邀请人及入群人 邀请人用户名由 入群人 确认后发给管理员/群管理员统计 奖励与每周定期奖励日叠加发放 已结算奖励的标题用 颜色 标识, 未结算的用 颜色 标识 结算时, 每一项的双方奖励/单方奖励(没有邀请人视为单方奖励): 彩票 * 1 CB1 * 1 作战报告书 * 2 对于入群人, 额外发放黑卡复活自带武器奖励(6 月 24 日维护变更): AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_moed_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.weapon) * 2 记录 2022 年 11 月 19 日结算 2022 年 11 月 11 日结算 2022 年 11 月 6 日结算 2022 年 10 月 29 日结算 2022 年 10 月 22 日结算 2022 年 10 月 15 日结算 邀请人 入群人 WRSHOLLYLEAF V.</description>
     </item>
     
     <item>
