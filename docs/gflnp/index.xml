@@ -10,10 +10,10 @@
     <item>
       <title>入群历史</title>
       <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/group_history/</link>
-      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/group_history/</guid>
-      <description>用法 此文档记录入群历史 记录以日期作为标题, **每周 **做一次结算 每节内容都应该为表格, 且详细记录邀请人及入群人 邀请人用户名由 入群人 确认后发给管理员/群管理员统计 奖励与每周定期奖励日叠加发放 已结算奖励的标题用 颜色 标识, 未结算的用 颜色 标识 结算时, 每一项的双方奖励/单方奖励(没有邀请人视为单方奖励): 彩票 * 1 CB1 * 1 作战报告书 * 2 对于入群人, 额外发放黑卡复活自带武器奖励(6 月 24 日维护变更): AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_moed_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.weapon) * 2 记录 2022 年 11 月 26 日结算 2022 年 11 月 19 日结算 2022 年 11 月 11 日结算 2022 年 11 月 6 日结算 2022 年 10 月 29 日结算 2022 年 10 月 22 日结算 2022 年 10 月 15 日结算 邀请人 入群人 WRSHOLLYLEAF V.</description>
+      <description>用法 此文档记录入群历史 记录以日期作为标题, **每周 **做一次结算 每节内容都应该为表格, 且详细记录邀请人及入群人 邀请人用户名由 入群人 确认后发给管理员/群管理员统计 奖励与每周定期奖励日叠加发放 已结算奖励的标题用 颜色 标识, 未结算的用 颜色 标识 结算时, 每一项的双方奖励/单方奖励(没有邀请人视为单方奖励): 彩票 * 1 CB1 * 1 作战报告书 * 2 对于入群人, 额外发放黑卡复活自带武器奖励(6 月 24 日维护变更): AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_moed_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.weapon) * 2 记录 2022 年 12 月 11 日结算 邀请人 入群人 ALEG9 NEKOHA SHIZUKU 2022 年 11 月 26 日结算 2022 年 11 月 19 日结算 2022 年 11 月 11 日结算 2022 年 11 月 6 日结算 2022 年 10 月 29 日结算 2022 年 10 月 22 日结算 2022 年 10 月 15 日结算 邀请人 入群人 WRSHOLLYLEAF V.</description>
     </item>
     
     <item>
@@ -43,7 +43,7 @@ CB1 * 60 CB2 * 56 彩票 * 92 黑卡 * 8 白卡 * 6 UR 卡 * 2 载具盒子 * 1 
       <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/user_manual/</guid>
-      <description>平衡性测试中平衡性测试中, 期间可能会调整服务器参数 imba 服务器 QQ 群: 837341470 改造(待完善，完善前暂不启用此计划） 平衡性测试中
+      <description>平衡性测试中平衡性测试中, 期间可能会调整服务器参数imba 服务器 QQ 群: 837341470改造(待完善，完善前暂不启用此计划） 平衡性测试中
 因平衡性测试中，本服暂不提供改造
 可用指令(继承自 Mod) 指令使用方式: 前缀用 &amp;ldquo;/&amp;rdquo; 执行 例: /buy 1
 buy 指令 购买物品 buy 指令给 2 个参数时, 最后一个参数是 &amp;ldquo;接受者&amp;rdquo; ID
