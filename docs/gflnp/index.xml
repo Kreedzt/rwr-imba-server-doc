@@ -8,6 +8,17 @@
     <language>zh-cn</language>
     <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kreedzt.github.io/rwr-imba-server-doc/gflnp/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>服务器维护记录</title>
+      <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server_maintance/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server_maintance/</guid>
+      <description>用法 此文档记录每次需要服务器停机维护的内容, 及统计 维护类型：(以标题区分颜色）
+颜色的为定期维护/活动维护 颜色的为 Mod/游戏本体更新维护 颜色的为紧急维护 统计 截止到 2022 年 11 月 26 日, 已发放的全服奖励(不包含有要求的活动):
+CB1 * 60 CB2 * 56 彩票 * 92 黑卡 * 8 白卡 * 6 UR 卡 * 2 载具盒子 * 1 玩具盒子 * 6 信物盒子 * 2 装备建造许可 * 2 作战报告书 * 12 AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_mod_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.</description>
+    </item>
+    
+    <item>
       <title>入群历史</title>
       <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/group_history/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
@@ -27,23 +38,12 @@
     </item>
     
     <item>
-      <title>服务器维护记录</title>
-      <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server_maintance/</link>
-      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server_maintance/</guid>
-      <description>用法 此文档记录每次需要服务器停机维护的内容, 及统计 维护类型：(以标题区分颜色）
-颜色的为定期维护/活动维护 颜色的为 Mod/游戏本体更新维护 颜色的为紧急维护 统计 截止到 2022 年 9 月 10 日, 已发放的全服奖励(不包含有要求的活动):
-CB1 * 60 CB2 * 56 彩票 * 92 黑卡 * 8 白卡 * 6 UR 卡 * 2 载具盒子 * 1 玩具盒子 * 6 信物盒子 * 2 装备建造许可 * 2 作战报告书 * 12 AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_mod_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.</description>
-    </item>
-    
-    <item>
       <title>玩家手册</title>
       <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/user_manual/</link>
       <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/user_manual/</guid>
-      <description>平衡性测试中平衡性测试中, 期间可能会调整服务器参数imba 服务器 QQ 群: 837341470改造(待完善，完善前暂不启用此计划） 平衡性测试中
+      <description>平衡性测试中平衡性测试中, 期间可能会调整服务器参数 imba 服务器 QQ 群: 837341470 改造(待完善，完善前暂不启用此计划） 平衡性测试中
 因平衡性测试中，本服暂不提供改造
 可用指令(继承自 Mod) 指令使用方式: 前缀用 &amp;ldquo;/&amp;rdquo; 执行 例: /buy 1
 buy 指令 购买物品 buy 指令给 2 个参数时, 最后一个参数是 &amp;ldquo;接受者&amp;rdquo; ID
