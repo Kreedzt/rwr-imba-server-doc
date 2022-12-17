@@ -8,33 +8,33 @@
     <language>zh-cn</language>
     <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kreedzt.github.io/rwr-imba-server-doc/gflnp/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>服务器维护记录</title>
-      <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server_maintance/</link>
-      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server_maintance/</guid>
-      <description>用法 此文档记录每次需要服务器停机维护的内容, 及统计 维护类型：(以标题区分颜色）
-颜色的为定期维护/活动维护 颜色的为 Mod/游戏本体更新维护 颜色的为紧急维护 统计 截止到 2022 年 11 月 26 日, 已发放的全服奖励(不包含有要求的活动):
-CB1 * 60 CB2 * 56 彩票 * 92 黑卡 * 8 白卡 * 6 UR 卡 * 2 载具盒子 * 1 玩具盒子 * 6 信物盒子 * 2 装备建造许可 * 2 作战报告书 * 12 AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_mod_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.</description>
-    </item>
-    
-    <item>
       <title>入群历史</title>
       <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/group_history/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/group_history/</guid>
-      <description>用法 此文档记录入群历史 记录以日期作为标题, **每周 **做一次结算 每节内容都应该为表格, 且详细记录邀请人及入群人 邀请人用户名由 入群人 确认后发给管理员/群管理员统计 奖励与每周定期奖励日叠加发放 已结算奖励的标题用 颜色 标识, 未结算的用 颜色 标识 结算时, 每一项的双方奖励/单方奖励(没有邀请人视为单方奖励): 彩票 * 1 CB1 * 1 作战报告书 * 2 对于入群人, 额外发放黑卡复活自带武器奖励(6 月 24 日维护变更): AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_moed_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.weapon) * 2 记录 2022 年 12 月 11 日结算 邀请人 入群人 ALEG9 NEKOHA SHIZUKU 2022 年 12 月 4 日结算 2022 年 11 月 26 日结算 2022 年 11 月 19 日结算 2022 年 11 月 11 日结算 2022 年 11 月 6 日结算 2022 年 10 月 29 日结算 2022 年 10 月 22 日结算 2022 年 10 月 15 日结算 邀请人 入群人 WRSHOLLYLEAF V.</description>
+      <description>用法 此文档记录入群历史 记录以日期作为标题, **每周 **做一次结算 每节内容都应该为表格, 且详细记录邀请人及入群人 邀请人用户名由 入群人 确认后发给管理员/群管理员统计 奖励与每周定期奖励日叠加发放 已结算奖励的标题用 颜色 标识, 未结算的用 颜色 标识 结算时, 每一项的双方奖励/单方奖励(没有邀请人视为单方奖励): 彩票 * 1 CB1 * 1 作战报告书 * 2 对于入群人, 额外发放黑卡复活自带武器奖励(6 月 24 日维护变更): AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_moed_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.weapon) * 2 记录 2022 年 12 月 17 日结算 2022 年 12 月 11 日结算 邀请人 入群人 ALEG9 NEKOHA SHIZUKU 2022 年 12 月 4 日结算 2022 年 11 月 26 日结算 2022 年 11 月 19 日结算 2022 年 11 月 11 日结算 2022 年 11 月 6 日结算 2022 年 10 月 29 日结算 2022 年 10 月 22 日结算 2022 年 10 月 15 日结算 邀请人 入群人 WRSHOLLYLEAF V.</description>
     </item>
     
     <item>
       <title>服务器活动</title>
       <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/event/</link>
-      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/event/</guid>
       <description>用法 此文档用以记录活动内容/方式/奖励说明
-活动准则 活动应明确标明开始日期, 结算日期(精确到小时, 通常是服务器周常维护时间) 活动应明确, 详细地阐述获取物品的方式, 不可发放过于破坏平衡性的游戏物品, 应以盒子为基础 活动开始与结束时都应发以群公告形式提前通知玩家 应特殊情况要修改内容的, 需至少提前 1 小时告知玩家 针对活动的不同状态, 应以不同颜色表明标题: 颜色 为未开始, 颜色 为进行中, 颜色 为已结束 记录 Pilot 改造兵种体验活动 开始时间: 2022-11-26 维护后 结束时间: 2022-12-03 维护前 奖励物品(对于一日人形, 获得双份奖励): G.H.S 抽奖券 * 2 CB1 * 1 CB2 * 1 作战报告书 * 2 服务器参数调整: 所有玩家账号兵种调整为 Pilot 额外说明: Pilot 拥有 0.1s 呼叫前摇, 请不要过多占用电台资源(单次轮回连续呼叫数&amp;lt;=2) Pilot 具有大多数兵种的军械库物品 Pilot 面板属性与 GST2 大致相同 国庆节活动(已结束) 开始时间: 2022-09-29 维护后 结束时间: 2022-10-07 维护前 服务器范围: 全部服务器 奖励物品(对于一日人形, 获得双份奖励): G.</description>
+活动准则 活动应明确标明开始日期, 结算日期(精确到小时, 通常是服务器周常维护时间) 活动应明确, 详细地阐述获取物品的方式, 不可发放过于破坏平衡性的游戏物品, 应以盒子为基础 活动开始与结束时都应发以群公告形式提前通知玩家 应特殊情况要修改内容的, 需至少提前 1 小时告知玩家 针对活动的不同状态, 应以不同颜色表明标题: 颜色 为未开始, 颜色 为进行中, 颜色 为已结束 记录 11 服难度上调测试 服务器范围: 11 开始时间: 2022-12-11 维护后 结束时间: 2022-12-24 维护前 奖励物品(对于一日人形, 获得双份奖励, 奖励在结束时发放): G.H.S 抽奖券 * 2 CB1 * 1 CB2 * 1 作战报告书 * 2 服务器参数调整: 适量调整兵力比例 适量调整动态平衡参数 额外说明: 在难度上调测试期间, 服务器会不定期重启, 每次重启奖励累加 Pilot 改造兵种体验活动 开始时间: 2022-11-26 维护后 结束时间: 2022-12-03 维护前 奖励物品(对于一日人形, 获得双份奖励): G.H.S 抽奖券 * 2 CB1 * 1 CB2 * 1 作战报告书 * 2 服务器参数调整: 所有玩家账号兵种调整为 Pilot 额外说明: Pilot 拥有 0.</description>
+    </item>
+    
+    <item>
+      <title>服务器维护记录</title>
+      <link>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server_maintance/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kreedzt.github.io/rwr-imba-server-doc/gflnp/server_maintance/</guid>
+      <description>用法 此文档记录每次需要服务器停机维护的内容, 及统计 维护类型：(以标题区分颜色）
+颜色的为定期维护/活动维护 颜色的为 Mod/游戏本体更新维护 颜色的为紧急维护 统计 截止到 2022 年 11 月 26 日, 已发放的全服奖励(不包含有要求的活动):
+CB1 * 60 CB2 * 56 彩票 * 92 黑卡 * 8 白卡 * 6 UR 卡 * 2 载具盒子 * 1 玩具盒子 * 6 信物盒子 * 2 装备建造许可 * 2 作战报告书 * 12 AR15 心智升级 (gw_ar15_mod_re_sl.weapon) * 2 M4A1 SOP MOD2 心智升级 (gw_sop2_mod_re.weapon) * 2 Super-Sass 心智升级 (gw_supersass_mod_re.weapon) * 2 M4A1 心智升级 (gw_m4a1_mod_re.</description>
     </item>
     
     <item>
