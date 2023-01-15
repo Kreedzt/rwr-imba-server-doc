@@ -1,6 +1,5 @@
 ---
-date: 2022-10-31
-lastmod: 2022-10-31
+date: 2023-01-15
 publishdate: 2022-10-31
 
 title: RWR Imba Server 文档
