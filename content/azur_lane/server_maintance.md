@@ -1,7 +1,7 @@
 ---
 title: '服务器维护记录'
 publishDate: 2022-10-31
-date: 2022-11-20
+date: 2023-02-04
 TableOfContents: true
 ---
 
@@ -15,6 +15,14 @@ TableOfContents: true
 -   颜色的为紧急维护
 
 ## 记录
+
+## 2023 年 2 月 4 日 20 点
+
+-  维护范围: 全部服务器
+-  维护原因: 定期维护
+-  开始时间: 2023-02-04 20:00
+-  结束时间: 2023-02-04 20:30
+-  维护时长: 30 分钟
 
 ## 2022 年 11 月 20 日 11 点 55 分
 
@@ -91,6 +99,6 @@ TableOfContents: true
 -   维护时长: 37 分钟
 -   服务器参数调整:
     -   全部服务器:
-        -   服务器链接设置为[ 玩家手册](https://www.yuque.com/zhaozisong/rwr-azur-lane-imba/xgh3dx)
+        -   服务器链接设置为[玩家手册](https://www.yuque.com/zhaozisong/rwr-azur-lane-imba/xgh3dx)
 -   额外说明:
     -   本次涉及到服务器系统级重启, 时间稍长
