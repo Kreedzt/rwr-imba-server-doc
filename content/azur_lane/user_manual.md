@@ -1,7 +1,7 @@
 ---
 title: '玩家手册'
 publishDate: 2022-10-31
-date: 2022-10-31
+date: 2023-04-08
 TableOfContents: true
 ---
 
@@ -88,20 +88,21 @@ TableOfContents: true
 5. map7（守点）
 6. map1-2
 7. map14
-8. map10
-9. map17
-10. map13-2（守点）
-11. map3
-12. map16
-13. map11（潜行）
-14. map8（守点）
-15. map6-2
-16. map4
-17. map1
-18. map5
-19. map12（黑猫）
-20. map18
-21. map13
+8. map20
+9. map10
+10. map17
+11. map13-2（守点）
+12. map3
+13. map16
+14. map11（潜行）
+15. map8（守点）
+16. map6-2
+17. map4
+18. map1
+19. map5
+20. map12（黑猫）
+21. map18
+22. map13
 
 # 多用户(小号)
 

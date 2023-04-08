@@ -1,7 +1,7 @@
 ---
 title: '玩家手册'
 publishDate: 2022-10-31
-date: 2023-02-01
+date: 2023-04-08
 TableOfContents: true
 ---
 
@@ -181,29 +181,30 @@ buy 指令给 2 个参数时, 最后一个参数是 "接受者" ID
 6. map7（守点）
 7. map1-2
 8. map14
-9. map10
-10. map17
-11. map3
-12. map16
-13. map11（潜行）
-14. map8（守点）
-15. map6-2
-16. map4
-17. map19
-18. map1
-19. map5
-20. roberto
-21. clairmont
-22. untildeath（守点）
-23. ~~uprising~~
-24. ~~untildeath2（守点）~~
-25. ~~instrusion~~
-26. ~~untildeath3（守点）~~
-27. ~~red dawn2~~
-28. untildeath4
-29. ~~map12（黑猫）~~
-30. map18(仅限 3 / 5 / 7 / 11 服务器)
-31. map13
+9. map20
+10. map10
+11. map17
+12. map3
+13. map16
+14. map11（潜行）
+15. map8（守点）
+16. map6-2
+17. map4
+18. map19
+19. map1
+20. map5
+21. roberto
+22. clairmont
+23. untildeath（守点）
+24. ~~uprising~~
+25. ~~untildeath2（守点）~~
+26. ~~instrusion~~
+27. ~~untildeath3（守点）~~
+28. ~~red dawn2~~
+29. untildeath4
+30. ~~map12（黑猫）~~
+31. map18(仅限 3 / 5 / 7 / 11 服务器)
+32. map13
 
 ## 多用户(小号)
 
