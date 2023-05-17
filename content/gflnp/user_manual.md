@@ -1,7 +1,7 @@
 ---
 title: '玩家手册'
 publishDate: 2022-10-31
-date: 2023-04-08
+date: 2023-05-17
 TableOfContents: true
 ---
 
@@ -173,38 +173,39 @@ buy 指令给 2 个参数时, 最后一个参数是 "接受者" ID
 
 > 本内容可能会随着服务器参数调整而变动，变动时会延后更新此部分
 
-1. map6
-2. map13-2（守点）
-3. map2
-4. map9
-5. ~~map8-2~~
-6. map7（守点）
-7. map1-2
-8. map14
-9. map20
-10. map10
-11. map17
-12. map3
-13. map16
-14. map11（潜行）
-15. map8（守点）
-16. map6-2
-17. map4
-18. map19
-19. map1
-20. map5
-21. roberto
-22. clairmont
-23. untildeath（守点）
-24. ~~uprising~~
-25. ~~untildeath2（守点）~~
-26. ~~instrusion~~
-27. ~~untildeath3（守点）~~
-28. ~~red dawn2~~
-29. untildeath4
-30. ~~map12（黑猫）~~
-31. map18(仅限 3 / 5 / 7 / 11 服务器)
-32. map13
+1. fort_belgrade(仅限 11 / 12 服务器)
+2. map6
+3. map13-2（守点）
+4. map2
+5. map9
+6. ~~map8-2~~
+7. map7（守点）
+8. map1-2
+9. map14
+10. map20
+11. map10
+12. map17
+13. map3
+14. map16
+15. map11（潜行）
+16. map8（守点）
+17. map6-2
+18. map4
+19. map19
+20. map1
+21. map5
+22. roberto
+23. clairmont
+24. untildeath（守点）
+25. ~~uprising~~
+26. ~~untildeath2（守点）~~
+27. ~~instrusion~~
+28. ~~untildeath3（守点）~~
+29. ~~red dawn2~~
+30. untildeath4
+31. ~~map12（黑猫）~~
+32. map18(仅限 3 / 5 / 7 / 11 服务器)
+33. map13
 
 ## 多用户(小号)
 
