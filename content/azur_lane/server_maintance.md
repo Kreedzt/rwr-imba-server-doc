@@ -1,7 +1,7 @@
 ---
 title: '服务器维护记录'
 publishDate: 2022-10-31
-date: 2023-05-26
+date: 2023-05-30
 TableOfContents: true
 ---
 
@@ -15,6 +15,17 @@ TableOfContents: true
 -   E 标识的为紧急维护
 
 ## 记录
+
+### S: 2023 年 5 月 30 日 20 点 50 分
+
+-   维护范围: 全部服务器
+-   维护原因: 服务器参数调整
+-   开始时间: 2023-05-30 20:50
+-   结束时间: 2023-05-30 21:12
+-   维护时长: 22 分钟
+-   服务器参数调整
+    -   所有服务器:
+        -   服务器引导链接更新为: https://rwr-imba-server-doc.kreedzt.com/azur_lane/user_manual/
 
 ### U: 2023 年 5 月 26 日 20 点 20 分
 
