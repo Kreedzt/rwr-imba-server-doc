@@ -1,4 +1,5 @@
-baseURL = 'https://kreedzt.github.io/rwr-imba-server-doc/'
+baseURL = 'https://rwr-imba-server-doc.kreedzt.com'
+# baseURL = 'https://kreedzt.github.io/rwr-imba-server-doc/'
 # baseURL = 'https://kreedzt.github.io/'
 languageCode = 'zh-cn'
 title = 'RWR Imba Server Docs'
