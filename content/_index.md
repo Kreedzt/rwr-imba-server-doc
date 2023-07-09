@@ -2,8 +2,8 @@
 date: 2023-01-15
 publishdate: 2022-10-31
 
-title: RWR Imba Server 文档
-description: 所有 RWR Imba Server 部署的服务器相关文档
+title: RWR Imba 服务器文档
+description: 所有 RWR Imba 服务器部署的服务器相关文档
 ---
 
 # GFLNP(少女前线)
